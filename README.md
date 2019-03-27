@@ -41,7 +41,7 @@ TODO
 * 1.[Python](https://github.com/fusimeng/Python)  
 * 2.[Git&Mardown](https://github.com/fusimeng/Git)  
 * 3.[C++](https://github.com/fusimeng/C++)
-
+* 4.[Linux](https://github.com/fusimeng/Linux)  
 ## 六、VideoCodec——视频编解码  
 ### 1.DeepStream  
 TODO  
