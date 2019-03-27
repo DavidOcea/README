@@ -21,9 +21,12 @@ TODO
 ### 3.GAN  
 TODO
 ## 三、B(big data)——大数据  
-* 1.Cifar10  
-* 2.Pascal VOC  
-* 3.MNIST  
+### 1.数据集  
+* Cifar10  
+* Pascal VOC  
+* MNIST  
+### 2.数据处理技术  
+* [Hadoop](https://github.com/fusimeng/Hadoop)
   
 ## 四、C(computing)——计算力/平台   
 ### 1.Cluster  
