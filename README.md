@@ -24,7 +24,7 @@ TODO
 ### II.RNN(循环神经网络)  
 TODO
 ### III.GAN(对抗生成网络)  
-TODO
+* 1.[Tutorials](https://github.com/fusimeng/GANTutorials)
 ## 三、B(big data)——大数据  
 ### 1.DataSet(数据集)  
 * [Cifar10](http://www.cs.toronto.edu/~kriz/cifar.html)  
@@ -65,7 +65,7 @@ TODO
 ## 五、L(language)——编程语言   
 * 1.[Python](https://github.com/fusimeng/Python)  
 * 2.[Git&Mardown](https://github.com/fusimeng/Git)  
-* 3.[C++](https://github.com/fusimeng/C++)
+* 3.[C++](https://github.com/fusimeng/C)
 * 4.[Linux](https://github.com/fusimeng/Linux)  
 ## 六、VideoCodec——视频编解码  
 ### DeepStream  
@@ -79,3 +79,6 @@ TODO
 * [线性代数](https://github.com/fusimeng/Math/tree/master/linear_algebra)  
 * [数理统计](https://github.com/fusimeng/Math/tree/master/mathematical_statistics)  
 * [概率论](https://github.com/fusimeng/Math/tree/master/probability_theory)  
+
+## 八、工具  
+* 1.[VScode](https://github.com/fusimeng/VScode)   
