@@ -2,6 +2,7 @@
 2018年9月21日更新：我改进了一些测度的方法。  
 ## 1.目前存在的框架  
 ![](imgs/01.png)   
+![](imgs/14.png)  
 * TensorFlow  
 TensorFlow是毫无争议的赢家。GitHub上最热，谷歌搜索最多，Medium文章、亚马逊书籍、ArXiv论文最多。使用TensorFlow的开发者最多，大多数网上招聘的工作描述中也提到了它。TensorFlow背后站着Google。  
 * Keras  

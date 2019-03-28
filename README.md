@@ -32,7 +32,7 @@ TODO
 ### 1.Cluster  
 *表1互联网业界机器学习平台架构对比*    
 |公司 | 平台名称| 集群管理和调度|
-|----:|-------:|--------------|
+|----:|-------:|--------------:|
 |微软|[OpenPAI](https://github.com/fusimeng/OpenPAI)|？|
 |百度|[PaddlePaddle](https://github.com/PaddlePaddle/)|Docker+Kubernets|
 |腾讯|[Angel](https://github.com/Angel-ML/angel)|Docker+Yarn|  
@@ -41,11 +41,12 @@ TODO
 |京东|登月|Docker+Kubernetes|
 |才云科技|[clever](https://caicloud.io/products/clever)|Docker+Kubernetes|
 |？|[Kubeflow](https://github.com/kubeflow)|Docker + Kubernetes|
-||[对比](frameworkcompare.md)|
-### 2.Framework  
+||[对比](clusterframeworkcompare.md)|
+### 2.Framework   
 * [TensorFlow](https://github.com/fusimeng/TensorFlow)
 * MxNet  
 * PyTorch  
+* [框架对比](frameworks.md)  
 ### 3.GPU  
 ### 4.CUDA  
 
