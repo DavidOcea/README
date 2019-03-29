@@ -1,9 +1,15 @@
 # GitHub  Catalog(GitHub目录)  
 ## 一、Introduction(绪论)  
 * [序-1](introduction01.md)  
+* [Books](https://github.com/fusimeng/book)  
+* [程序员最应该访问的网站](https://github.com/fusimeng/Best-websites-a-programmer-should-visit-zh)   
+
+
 
 ## 二、A(algorithm)——算法   
-## **MachineLearning(机器学习)**  
+## **MachineLearning(机器学习)**   
+### [参考1:算法Tutorial](https://github.com/fusimeng/Algorithms-Tutorial)|[参考2：算法tutorial](https://github.com/fusimeng/tutorial)|[参考3:spark ml](https://github.com/fusimeng/spark-ml-source-analysis)|[参考4:ML/DL/NLP](https://github.com/fusimeng/AiLearning)|     
+
 ### I.Classification(分类)   
 TODO 
 ### II.Regression(回归)  
@@ -54,23 +60,35 @@ TODO
 ||[对比](clusterframeworkcompare.md)|  
   
 ### 2.Framework(深度学习框架)   
-* [TensorFlow](https://github.com/fusimeng/TensorFlow)  
-* [TensorFlow2.x](https://github.com/fusimeng/TensorFlow2.x)  
+* [TensorFlow1.x](https://github.com/fusimeng/TensorFlow)   
+    * [《深入理解TensorFlow》项目代码与样章](https://github.com/fusimeng/tensorflow-in-depth)  
+* [TensorFlow2.x](https://github.com/fusimeng/TensorFlow2.x)      
+    *  [TensorFlow2.0Tutorials](https://github.com/fusimeng/TensorFlow2.0Tutorials)   
 * [MxNet](https://github.com/fusimeng/MxNet)  
 * PyTorch  
 * [框架对比](frameworks.md)  
 ### 3.GPU(图形计算单元，显卡，NV卡)  
 TODO  
 ### 4.CUDA(Compute Unified Device Architecture，统一计算设备架构)   
-TODO
+TODO   
+### 5.Docker  
+* [docker命令指南](https://github.com/fusimeng/docker-directive)  
+### 6.Kubernates  
+* [Kubernates]()  
+* [微服务](https://github.com/fusimeng/micro-Services-Tutorial)   
+
 
 
   
 ## 五、L(language)——编程语言   
 * 1.[Python](https://github.com/fusimeng/Python)  
-* 2.[Git&Mardown](https://github.com/fusimeng/Git)  
+* 2.[Git&Mardown](https://github.com/fusimeng/Git)   
+    * [Markdown2pdf](https://github.com/fusimeng/transfer)  
+    
 * 3.[C++](https://github.com/fusimeng/C)  
-* 4.[Linux](https://github.com/fusimeng/Linux)  
+* 4.[Linux](https://github.com/fusimeng/Linux)   
+    * [Linux超赞软件](https://github.com/fusimeng/Awesome-Linux-Software-zh_CN)   
+
 ## 六、VideoCodec——视频编解码  
 ### DeepStream  
 * 1.[DeepStream3.0](https://github.com/fusimeng/DeepStream3.0)  
@@ -86,6 +104,9 @@ TODO
 
 ## 八、工具  
 * 1.[VScode](https://github.com/fusimeng/VScode)   
+* 2.[Pipwork](https://github.com/fusimeng/pipework)   
+* 3.[tools](https://github.com/fusimeng/tools)这个是私有项目。  
+
 ## 九、学校课程  
 TODO  
 ## 
