@@ -33,7 +33,8 @@ TODO
 ### 2.DataProcessingTechnique(数据处理技术)  
 * [Hadoop](https://github.com/fusimeng/Hadoop)   
 * [Hadoop-HA](https://github.com/fusimeng/Hadoop-HA)  
-* [Hadoop-MapReduce](https://github.com/fusimeng/Hadoop-MapReduce)  
+* [Hadoop-MapReduce](https://github.com/fusimeng/Hadoop-MapReduce)    
+* [Yarn](https://github.com/fusimeng/Yarn)    
 
   
 ## 四、C(computing)——计算力/平台   
