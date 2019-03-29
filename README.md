@@ -69,7 +69,7 @@ TODO
 ## 五、L(language)——编程语言   
 * 1.[Python](https://github.com/fusimeng/Python)  
 * 2.[Git&Mardown](https://github.com/fusimeng/Git)  
-* 3.[C++](https://github.com/fusimeng/C)
+* 3.[C++](https://github.com/fusimeng/C)  
 * 4.[Linux](https://github.com/fusimeng/Linux)  
 ## 六、VideoCodec——视频编解码  
 ### DeepStream  
@@ -86,3 +86,6 @@ TODO
 
 ## 八、工具  
 * 1.[VScode](https://github.com/fusimeng/VScode)   
+## 九、学校课程  
+TODO  
+## 
