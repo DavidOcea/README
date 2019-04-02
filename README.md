@@ -1,6 +1,11 @@
-# GitHub  Catalog(GitHub目录)  
+# GitHub  Catalog(GitHub目录)   
+修改时间：2019-04-02   
+## 文件夹介绍   
+* imgs--> 笔记图片   
+* notes--> 笔记   
+
 ## 一、Introduction(绪论)  
-* [序-1](introduction01.md)  
+* [序-1](notes/introduction01.md)  
 * [Books](https://github.com/fusimeng/book)  
 * [程序员最应该访问的网站](https://github.com/fusimeng/Best-websites-a-programmer-should-visit-zh)   
 
@@ -14,7 +19,7 @@
 TODO 
 ### II.Regression(回归)  
 TODO
-### III.Cluster(聚类)
+### III.Cluster(聚类)  
 TODO  
 ### IV.EnsembleLearning(集成学习)  
 * 1.[AdaBoost](https://github.com/fusimeng/AdaBoost)  
@@ -57,7 +62,7 @@ TODO
 |京东|登月|Docker+Kubernetes|
 |才云科技|[clever](https://caicloud.io/products/clever)|Docker+Kubernetes|
 |？|[Kubeflow](https://github.com/kubeflow)|Docker + Kubernetes|
-||[对比](clusterframeworkcompare.md)|  
+||[对比](notes/clusterframeworkcompare.md)|  
   
 ### 2.Framework(深度学习框架)   
 * [TensorFlow1.x](https://github.com/fusimeng/TensorFlow)   
@@ -66,7 +71,7 @@ TODO
     *  [TensorFlow2.0Tutorials](https://github.com/fusimeng/TensorFlow2.0Tutorials)   
 * [MxNet](https://github.com/fusimeng/MxNet)  
 * PyTorch  
-* [框架对比](frameworks.md)  
+* [框架对比](notes/frameworks.md)  
 ### 3.GPU(图形计算单元，显卡，NV卡)  
 TODO  
 ### 4.CUDA(Compute Unified Device Architecture，统一计算设备架构)   
@@ -84,7 +89,7 @@ TODO
 * 1.[Python](https://github.com/fusimeng/Python)  
 * 2.[Git&Mardown](https://github.com/fusimeng/Git)   
     * [Markdown2pdf](https://github.com/fusimeng/transfer)  
-    
+
 * 3.[C++](https://github.com/fusimeng/C)  
 * 4.[Linux](https://github.com/fusimeng/Linux)   
     * [Linux超赞软件](https://github.com/fusimeng/Awesome-Linux-Software-zh_CN)   
