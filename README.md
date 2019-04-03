@@ -1,5 +1,5 @@
 # GitHub  Catalog(GitHub目录)   
-修改时间：2019-04-02   
+修改时间：2019-04-03   
 ## 文件夹介绍   
 * imgs--> 笔记图片   
 * notes--> 笔记   
@@ -71,6 +71,7 @@ TODO
     *  [TensorFlow2.0Tutorials](https://github.com/fusimeng/TensorFlow2.0Tutorials)   
 * [MxNet](https://github.com/fusimeng/MxNet)  
 * [PyTorch](https://github.com/fusimeng/PyTorch)  
+* [Horovod](https://github.com/fusimeng/Horovod)
 * [框架对比](notes/frameworks.md)  
 ### 3.GPU(图形计算单元，显卡，NV卡)  
 TODO  
