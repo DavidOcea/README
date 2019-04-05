@@ -4,10 +4,14 @@
 * imgs--> 笔记图片   
 * notes--> 笔记   
 
+
 ## 一、Introduction(绪论)  
 * [序-1](notes/introduction01.md)  
 * [Books](https://github.com/fusimeng/book)  
 * [程序员最应该访问的网站](https://github.com/fusimeng/Best-websites-a-programmer-should-visit-zh)   
+* [ApacheCN-GitHub
+](https://github.com/apachecn)|[ApacheCN](http://www.apachecn.org/)   
+
 
 
 
@@ -46,6 +50,8 @@ TODO
 * [Hadoop-HA](https://github.com/fusimeng/Hadoop-HA)  
 * [Hadoop-MapReduce](https://github.com/fusimeng/Hadoop-MapReduce)    
 * [Yarn](https://github.com/fusimeng/Yarn)    
+* Ceph    
+TODO 
 
   
 ## 四、C(computing)——计算力/平台   
@@ -62,6 +68,7 @@ TODO
 |京东|登月|Docker+Kubernetes|
 |才云科技|[clever](https://caicloud.io/products/clever)|Docker+Kubernetes|
 |？|[Kubeflow](https://github.com/kubeflow)|Docker + Kubernetes|
+|IBM|[FFDL](https://github.com/IBM/FfDL)|?|
 ||[对比](notes/clusterframeworkcompare.md)|  
   
 ### 2.Framework(深度学习框架)   
@@ -69,10 +76,18 @@ TODO
     * [《深入理解TensorFlow》项目代码与样章](https://github.com/fusimeng/tensorflow-in-depth)  
 * [TensorFlow2.x](https://github.com/fusimeng/TensorFlow2.x)      
     *  [TensorFlow2.0Tutorials](https://github.com/fusimeng/TensorFlow2.0Tutorials)   
-* [MxNet](https://github.com/fusimeng/MxNet)  
+* [MxNet](https://github.com/fusimeng/MxNet)   
+    * [官网](https://mxnet.apache.org/)  
+    * [Tutorial](https://github.com/d2l-ai)  
+    * [bilibili](https://space.bilibili.com/209599371/#/channel/detail?cid=23541)  
 * [PyTorch](https://github.com/fusimeng/PyTorch)  
+    * [官网]()
 * [Horovod](https://github.com/fusimeng/Horovod)
 * [框架对比](notes/frameworks.md)  
+* [ONNX](https://github.com/onnx)   
+* [Dragon](http://dragon.seetatech.com/)  
+* caffe2  
+    *  [官网](https://caffe2.ai/)  
 ### 3.GPU(图形计算单元，显卡，NV卡)  
 TODO  
 ### 4.CUDA(Compute Unified Device Architecture，统一计算设备架构)   
@@ -82,6 +97,13 @@ TODO
 ### 6.Kubernates  
 * [Kubernates]()  
 * [微服务](https://github.com/fusimeng/micro-Services-Tutorial)   
+### 7.MPI/OpenMPI
+TODO
+### 8.Harbor  
+TODO
+### 9.OpenCV  
+TODO  
+
 
 
 
@@ -111,7 +133,10 @@ TODO
 ## 八、工具  
 * 1.[VScode](https://github.com/fusimeng/VScode)   
 * 2.[Pipwork](https://github.com/fusimeng/pipework)   
-* 3.[tools](https://github.com/fusimeng/tools)这个是私有项目。  
+* 3.[tools](https://github.com/fusimeng/tools)这个是私有项目。 
+* 4.pycharm  
+* 5.Jupyter  
+
 
 ## 九、学校课程  
 TODO  
