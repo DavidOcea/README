@@ -81,7 +81,7 @@ TODO
     * [Tutorial](https://github.com/d2l-ai)  
     * [bilibili](https://space.bilibili.com/209599371/#/channel/detail?cid=23541)  
 * [PyTorch](https://github.com/fusimeng/PyTorch)  
-    * [官网]()
+    * [Pytorch-1.0.0 Tutorials](https://github.com/fusimeng/PyTorch-1.0.0)  
 * [Horovod](https://github.com/fusimeng/Horovod)
 * [框架对比](notes/frameworks.md)  
 * [ONNX](https://github.com/onnx)   
