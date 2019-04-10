@@ -61,7 +61,7 @@ TODO
 |公司 | 平台名称| 集群管理和调度|  
 |:----:|:-------:|:--------------:|    
 |微软|[OpenPAI](https://github.com/fusimeng/OpenPAI)/[Offical](https://github.com/Microsoft/pai)|？|    
-|百度|[PaddlePaddle](https://github.com/PaddlePaddle/)|  Docker+Kubernets|  
+|百度|[PaddlePaddle](http://paddlepaddle.org/zh)|  Docker+Kubernets|  
 |腾讯|[Angel](https://github.com/Angel-ML/angel)|Docker+Yarn|  
 |阿里|[X-DeepLearning](https://github.com/alibaba/x-deeplearning)|Docker+Yarn|
 |360|[Xlearning](https://github.com/Qihoo360/XLearning)|Yarn|
