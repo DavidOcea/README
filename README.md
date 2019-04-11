@@ -21,7 +21,7 @@ TODO
 * [AdaBoost](https://github.com/fusimeng/AdaBoost)   
 * [GradientBoosting](https://github.com/fusimeng/GradientBoosting)  
 * [Xgboost](https://github.com/fusimeng/Xgboost)  
-### **2.DeepLearning(深度学习)** 
+## 2.DeepLearning(深度学习) 
 ### I. [CNN](https://github.com/fusimeng/CNNTutorials)  
 * [MaskRCNN](https://github.com/fusimeng/MaskRCNN)  
 * [Yolo-v1](https://github.com/fusimeng/Yolo-v1)   
@@ -73,8 +73,7 @@ TODO
 * [ONNX](https://github.com/onnx)   
 * [Dragon](http://dragon.seetatech.com/)  
 * caffe2    
-### 3.GPU & CUDA    
-TODO  
+### 3.[GPU & CUDA](https://github.com/fusimeng/GPU-CUDA)      
 ### 4. [集群底层通信协议](https://github.com/fusimeng/UnderlyingProtocol)   
 * MPI/OpenMPI   
 * TCP  
