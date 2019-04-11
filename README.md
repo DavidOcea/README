@@ -3,20 +3,42 @@
 ## 文件夹介绍   
 * imgs--> 笔记图片   
 * notes--> 笔记   
-
-
+## 目录   
+```
+| 一、Introduction(绪论) 
+| 二、A(algorithm)——算法
+|   ----1.MachineLearning(机器学习)
+|       ----I.Classification(分类)   
+|       ----II.Regression(回归)
+|       ----III.Cluster(聚类)  
+|       ----IV.EnsembleLearning(集成学习) 
+|   ----2.DeepLearning(深度学习)
+|       ----I.CNN
+|       ----II.RNN
+|       ----III.GAN
+| 三、B(big data)——大数据
+|   ----1.DataSet(数据集)  
+|   ----2.DataProcessingTechnique(数据处理技术)  
+| 四、C(computing)——计算力/平台   
+|   ----1.Cluster(集群，带GPU)
+|   ----2.Framework(深度学习框架) 
+|   ----3.GPU & CUDA 
+|   ----4.集群底层通信协议 
+|   ----5.Kubernates & [Docker]
+|   ----6.工具库  
+| 五、L(language)——编程语言
+| 六、VideoCodec——视频编解码  
+| 七、数学笔记
+| 八、工具 
+```
 ## 一、Introduction(绪论)  
-* [序-1](notes/introduction01.md)  
+* [序](notes/introduction01.md)  
 * [Books](https://github.com/fusimeng/book)  
 * [程序员最应该访问的网站](https://github.com/fusimeng/Best-websites-a-programmer-should-visit-zh)   
 * [ApacheCN-GitHub
 ](https://github.com/apachecn)|[ApacheCN](http://www.apachecn.org/)   
-
-
-
-
 ## 二、A(algorithm)——算法   
-## **MachineLearning(机器学习)**   
+### **1.MachineLearning(机器学习)**   
 ### [参考1:算法Tutorial](https://github.com/fusimeng/Algorithms-Tutorial)|[参考2：算法tutorial](https://github.com/fusimeng/tutorial)|[参考3:spark ml](https://github.com/fusimeng/spark-ml-source-analysis)|[参考4:ML/DL/NLP](https://github.com/fusimeng/AiLearning)|     
 
 ### I.Classification(分类)   
@@ -26,34 +48,30 @@ TODO
 ### III.Cluster(聚类)  
 TODO  
 ### IV.EnsembleLearning(集成学习)  
-* 1.[AdaBoost](https://github.com/fusimeng/AdaBoost)  
-* 2.[GradientBoosting](https://github.com/fusimeng/GradientBoosting)  
-* 3.[Xgboost](https://github.com/fusimeng/Xgboost)  
-## **DeepLearning(深度学习)** 
+* [AdaBoost](https://github.com/fusimeng/AdaBoost)   
+* [GradientBoosting](https://github.com/fusimeng/GradientBoosting)  
+* [Xgboost](https://github.com/fusimeng/Xgboost)  
+### **2.DeepLearning(深度学习)** 
 ### I. [CNN](https://github.com/fusimeng/CNNTutorials)  
-* 1.[MaskRCNN](https://github.com/fusimeng/MaskRCNN)  
-* 2.[Yolo-v1](https://github.com/fusimeng/Yolo-v1)   
-* 3.[AlexNet](https://github.com/fusimeng/AlexNet)   
-* 4.[Lenet](https://github.com/fusimeng/LeNet)  
+* [MaskRCNN](https://github.com/fusimeng/MaskRCNN)  
+* [Yolo-v1](https://github.com/fusimeng/Yolo-v1)   
+* [AlexNet](https://github.com/fusimeng/AlexNet)   
+* [Lenet](https://github.com/fusimeng/LeNet)  
 
 ### II.RNN(循环神经网络)  
 TODO
-### III.GAN(对抗生成网络)  
-* 1.[Tutorials](https://github.com/fusimeng/GANTutorials)
+### III.[GAN](https://github.com/fusimeng/GANTutorials)(对抗生成网络)  
+TODO  
 ## 三、B(big data)——大数据  
 ### 1.DataSet(数据集)  
-* [Cifar10](http://www.cs.toronto.edu/~kriz/cifar.html)  
-* [Pascal VOC](http://host.robots.ox.ac.uk/pascal/VOC/)  
-* [MNIST](http://yann.lecun.com/exdb/mnist/)  
+[Cifar10](http://www.cs.toronto.edu/~kriz/cifar.html)  |
+[Pascal VOC](http://host.robots.ox.ac.uk/pascal/VOC/)  | [MNIST](http://yann.lecun.com/exdb/mnist/)  
 ### 2.DataProcessingTechnique(数据处理技术)  
-* [Hadoop](https://github.com/fusimeng/Hadoop)   
+* [Hadoop](https://github.com/fusimeng/Hadoop)  
 * [Hadoop-HA](https://github.com/fusimeng/Hadoop-HA)  
-* [Hadoop-MapReduce](https://github.com/fusimeng/Hadoop-MapReduce)    
+* [Hadoop-MapReduce](https://github.com/fusimeng/Hadoop-MapReduce)  
 * [Yarn](https://github.com/fusimeng/Yarn)    
-* Ceph    
-TODO 
-
-  
+* Ceph      
 ## 四、C(computing)——计算力/平台   
 ### 1.Cluster(集群，带GPU)  
 *表1互联网业界机器学习平台架构对比*    
@@ -88,26 +106,22 @@ TODO
 * [Dragon](http://dragon.seetatech.com/)  
 * caffe2  
     *  [官网](https://caffe2.ai/)  
-### 3.GPU(图形计算单元，显卡，NV卡)  
+### 3.GPU & CUDA    
 TODO  
-### 4.CUDA(Compute Unified Device Architecture，统一计算设备架构)   
-TODO   
-### 5.[Docker](https://github.com/fusimeng/Docker)    
-* [docker命令指南](https://github.com/fusimeng/docker-directive)  
-### 6.Kubernates  
-* [Kubernates]()  
+### 4. [集群底层通信协议](https://github.com/fusimeng/UnderlyingProtocol)   
+* MPI/OpenMPI   
+* TCP  
+* gloo 
+* nccl 
+* pdsh 
+* slurm 
+* clustershell     
+### 5.Kubernates & [Docker](https://github.com/fusimeng/Docker)   
+* [docker命令指南](https://github.com/fusimeng/docker-directive)
 * [微服务](https://github.com/fusimeng/micro-Services-Tutorial)   
-### 7.MPI/OpenMPI
-TODO
-### 8.Harbor  
-TODO
-### 9.OpenCV  
-TODO  
+### 6.工具库   
+* OpenCV  
 
-
-
-
-  
 ## 五、L(language)——编程语言   
 * 1.[Python](https://github.com/fusimeng/Python)  
 * 2.[Git&Mardown](https://github.com/fusimeng/Git)   
