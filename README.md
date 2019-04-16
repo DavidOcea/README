@@ -78,8 +78,8 @@ TODO
 ### 4. [集群底层通信协议](https://github.com/fusimeng/UnderlyingProtocol)   
 * MPI/OpenMPI   
 * TCP  
-* gloo 
-* nccl 
+* [gloo](https://github.com/facebookincubator/gloo)   
+* [nccl](https://github.com/NVIDIA/nccl)   
 * pdsh 
 * slurm 
 * clustershell     
