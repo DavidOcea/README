@@ -10,7 +10,7 @@
 ](https://github.com/apachecn)| [ApacheCN](http://www.apachecn.org/)   
 ## 二、A(algorithm)——算法   
 ## 1.MachineLearning(机器学习)   
-### [参考1:算法Tutorial](https://github.com/fusimeng/Algorithms-Tutorial)|[参考2：算法tutorial](https://github.com/fusimeng/tutorial)|[参考3:spark ml](https://github.com/fusimeng/spark-ml-source-analysis)|[参考4:ML/DL/NLP](https://github.com/fusimeng/AiLearning)|     
+##### [参考1:算法Tutorial](https://github.com/fusimeng/Algorithms-Tutorial)|[参考2：算法tutorial](https://github.com/fusimeng/tutorial)|[参考3:spark ml](https://github.com/fusimeng/spark-ml-source-analysis)|[参考4:ML/DL/NLP](https://github.com/fusimeng/AiLearning)|     
 ### I.Classification(分类)   
 TODO 
 ### II.Regression(回归)  
@@ -68,7 +68,7 @@ TODO
 * [MxNet](https://github.com/fusimeng/mxnet_)  
     * [MxNet Tutorial](https://github.com/fusimeng/MxNet)      
 * [PyTorch](https://github.com/fusimeng/PyTorch)  
-    * [Pytorch-1.0.0 Tutorials](https://github.com/fusimeng/PyTorch-1.0.0)  
+    * [Pytorch-1.0.0 Tutorials](https://github.com/fusimeng/pytorch1.0.0)  
 * [Horovod](https://github.com/fusimeng/Horovod)
 * [框架对比](notes/frameworks.md)  
 * [ONNX](https://github.com/onnx)   
