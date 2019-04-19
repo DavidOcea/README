@@ -60,7 +60,15 @@ TODO
 |IBM|[FFDL](https://github.com/IBM/FfDL)|?|
 ||[对比](notes/clusterframeworkcompare.md)|  
   
-### 2.Framework(深度学习框架)   
+### 2.Framework(深度学习框架)  
+* [集群底层通信协议](https://github.com/fusimeng/UnderlyingProtocol)  
+    * MPI/OpenMPI   
+    * TCP  
+    * [gloo](https://github.com/facebookincubator/gloo)   
+    * [nccl](https://github.com/NVIDIA/nccl)   
+    * pdsh 
+    * slurm 
+    * clustershell 
 * [TensorFlow1.x](https://github.com/fusimeng/TensorFlow)   
     * [《深入理解TensorFlow》项目代码与样章](https://github.com/fusimeng/tensorflow-in-depth)  
 * [TensorFlow2.x](https://github.com/fusimeng/TensorFlow2.x)      
@@ -74,19 +82,17 @@ TODO
 * [ONNX](https://github.com/onnx)   
 * [Dragon](http://dragon.seetatech.com/)  
 * caffe2    
-### 3.[GPU & CUDA](https://github.com/fusimeng/GPU-CUDA)      
-### 4. [集群底层通信协议](https://github.com/fusimeng/UnderlyingProtocol)   
-* MPI/OpenMPI   
-* TCP  
-* [gloo](https://github.com/facebookincubator/gloo)   
-* [nccl](https://github.com/NVIDIA/nccl)   
-* pdsh 
-* slurm 
-* clustershell     
-### 5.Kubernates & [Docker](https://github.com/fusimeng/Docker)   
-* [docker命令指南](https://github.com/fusimeng/docker-directive)
+* [TensorRT](https://github.com/fusimeng/TensorRT)  
+### 3.GPU 硬件知识
+* [GPU & CUDA](https://github.com/fusimeng/GPU-CUDA)     
+* FPGA 
+    
+### 4.集群
+* Kubernates 
+* [Docker](https://github.com/fusimeng/Docker)   
+    * [docker命令指南](https://github.com/fusimeng/docker-directive)
 * [微服务](https://github.com/fusimeng/micro-Services-Tutorial)   
-### 6.工具库   
+### 5.工具库   
 * OpenCV  
 
 ## 五、L(language)——编程语言   
