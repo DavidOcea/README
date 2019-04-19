@@ -62,7 +62,8 @@ TODO
   
 ### 2.Framework(深度学习框架)  
 * [集群底层通信协议](https://github.com/fusimeng/UnderlyingProtocol)  
-    * MPI/OpenMPI   
+    * MPI/[Open-MPI](https://www.open-mpi.org/)/[Intel MPI](https://software.intel.com/en-us/mpi-library)     
+    * [MVAPICH2](http://mvapich.cse.ohio-state.edu/)
     * TCP  
     * [gloo](https://github.com/facebookincubator/gloo)   
     * [nccl](https://github.com/NVIDIA/nccl)   
