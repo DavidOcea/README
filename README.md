@@ -44,7 +44,13 @@ TODO
 * [Yarn](https://github.com/fusimeng/Yarn)    
 * Ceph      
 ## 四、C(computing)——计算力/平台   
-### 1.Cluster(集群，带GPU)  
+### 1.[并行计算](https://github.com/fusimeng/ParallelComputing)  
+* MPI
+* OpenMP
+* OpenCL
+* OpenGL
+* CUDA 
+### 2.Cluster(集群，带GPU)  
 *表1互联网业界机器学习平台架构对比*    
   
 |公司 | 平台名称| 集群管理和调度|  
@@ -61,7 +67,7 @@ TODO
 ||[scm](https://github.com/fusimeng/scm)|
 ||[对比](notes/clusterframeworkcompare.md)|  
   
-### 2.Framework(深度学习框架)  
+### 3.Framework(深度学习框架)  
 * [集群底层通信协议](https://github.com/fusimeng/UnderlyingProtocol)  
     * MPI/[Open-MPI](https://www.open-mpi.org/)/[Intel MPI](https://software.intel.com/en-us/mpi-library)     
     * [MVAPICH2](http://mvapich.cse.ohio-state.edu/)
@@ -85,16 +91,16 @@ TODO
 * [Dragon](http://dragon.seetatech.com/)  
 * caffe2    
 * [TensorRT](https://github.com/fusimeng/TensorRT)  
-### 3.GPU 硬件知识
+### 4.GPU 硬件知识
 * [GPU & CUDA](https://github.com/fusimeng/GPU-CUDA)     
 * FPGA 
     
-### 4.集群
+### 5.集群
 * Kubernates 
 * [Docker](https://github.com/fusimeng/Docker)   
     * [docker命令指南](https://github.com/fusimeng/docker-directive)
 * [微服务](https://github.com/fusimeng/micro-Services-Tutorial)   
-### 5.工具库   
+### 6.工具库   
 * OpenCV  
 
 ## 五、L(language)——编程语言   
