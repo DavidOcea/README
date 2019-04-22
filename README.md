@@ -58,6 +58,7 @@ TODO
 |才云科技|[clever](https://caicloud.io/products/clever)|Docker+Kubernetes|
 |Google|[Kubeflow](https://github.com/kubeflow)|Docker + Kubernetes|
 |IBM|[FFDL](https://github.com/IBM/FfDL)|?|
+||[scm](https://github.com/fusimeng/scm)|
 ||[对比](notes/clusterframeworkcompare.md)|  
   
 ### 2.Framework(深度学习框架)  
