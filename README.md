@@ -44,12 +44,19 @@ TODO
 * [Yarn](https://github.com/fusimeng/Yarn)    
 * Ceph      
 ## 四、C(computing)——计算力/平台   
-### 1.[并行计算](https://github.com/fusimeng/ParallelComputing)  
-* MPI
+### 1.[并行计算](https://github.com/fusimeng/ParallelComputing)  | [集群底层通信协议](https://github.com/fusimeng/UnderlyingProtocol) 
+* MPI/[Open-MPI](https://www.open-mpi.org/)/[Intel MPI](https://software.intel.com/en-us/mpi-library)/[MVAPICH2](http://mvapich.cse.ohio-state.edu/)
 * OpenMP
 * OpenCL
 * OpenGL
 * CUDA 
+* [gloo](https://github.com/facebookincubator/gloo)   
+* [nccl](https://github.com/NVIDIA/nccl)    
+#### ---- 集群管理工具 ------
+* pdsh 
+* slurm 
+* clustershell 
+
 ### 2.Cluster(集群，带GPU)  
 *表1互联网业界机器学习平台架构对比*    
   
@@ -68,15 +75,6 @@ TODO
 ||[对比](notes/clusterframeworkcompare.md)|  
   
 ### 3.Framework(深度学习框架)  
-* [集群底层通信协议](https://github.com/fusimeng/UnderlyingProtocol)  
-    * MPI/[Open-MPI](https://www.open-mpi.org/)/[Intel MPI](https://software.intel.com/en-us/mpi-library)     
-    * [MVAPICH2](http://mvapich.cse.ohio-state.edu/)
-    * TCP  
-    * [gloo](https://github.com/facebookincubator/gloo)   
-    * [nccl](https://github.com/NVIDIA/nccl)   
-    * pdsh 
-    * slurm 
-    * clustershell 
 * [TensorFlow1.x](https://github.com/fusimeng/TensorFlow)   
     * [《深入理解TensorFlow》项目代码与样章](https://github.com/fusimeng/tensorflow-in-depth)  
 * [TensorFlow2.x](https://github.com/fusimeng/TensorFlow2.x)      
