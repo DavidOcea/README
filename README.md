@@ -94,7 +94,7 @@ TODO
 * FPGA 
     
 ### 5.集群
-* Kubernates 
+* [Kubernates](https://github.com/fusimeng/k8s) 
 * [Docker](https://github.com/fusimeng/Docker)   
     * [docker命令指南](https://github.com/fusimeng/docker-directive)
 * [微服务](https://github.com/fusimeng/micro-Services-Tutorial)   
