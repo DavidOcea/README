@@ -74,21 +74,20 @@ TODO
 ||[scm](https://github.com/fusimeng/scm)|
 ||[对比](notes/clusterframeworkcompare.md)|  
   
-### 3.Framework(深度学习框架)  
-* [TensorFlow1.x](https://github.com/fusimeng/TensorFlow)   
+### 3.Framework([深度学习框架]((notes/frameworks.md) ))  
+* Tensorflow
+    * [TensorFlow1.x](https://github.com/fusimeng/TensorFlow)   
     * [《深入理解TensorFlow》项目代码与样章](https://github.com/fusimeng/tensorflow-in-depth)  
-* [TensorFlow2.x](https://github.com/fusimeng/TensorFlow2.x)      
+    * [TensorFlow2.x](https://github.com/fusimeng/TensorFlow2.x)      
     *  [TensorFlow2.0Tutorials](https://github.com/fusimeng/TensorFlow2.0Tutorials)   
 * [MxNet](https://github.com/fusimeng/mxnet_)  
     * [MxNet Tutorial](https://github.com/fusimeng/MxNet)      
 * [PyTorch](https://github.com/fusimeng/PyTorch)  
     * [Examples](https://github.com/fusimeng/pytorchexamples)  
 * [Horovod](https://github.com/fusimeng/Horovod)
-* [框架对比](notes/frameworks.md)  
-* [ONNX](https://github.com/onnx)   
-* [Dragon](http://dragon.seetatech.com/)  
-* caffe2    
+* [ONNX](https://github.com/onnx)     
 * [TensorRT](https://github.com/fusimeng/TensorRT)  
+* [Tensorboard](https://github.com/fusimeng/Tensorboard/settings)
 ### 4.GPU 硬件知识
 * [GPU & CUDA](https://github.com/fusimeng/GPU-CUDA)     
 * FPGA 
@@ -133,3 +132,19 @@ TODO
 
 ## 九、学校课程  
 TODO  
+## 十、NVIDIA
+### 1.NVIDIA  SDK & Libraries
+* cuBLAS
+* cuDNN
+* cuFFT
+* cuSPARSE
+* DeepStream
+* NCCL
+* TensorRT 
+* PGI OpenACC
+* NVENC 
+* vGPU Software Management
+* TensorCore
+* CUDA10
+
+
