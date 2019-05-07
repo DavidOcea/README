@@ -40,7 +40,7 @@ TODO
 * [Yarn](https://github.com/fusimeng/Yarn)    
 * Ceph      
 ## 四、C(computing)——计算力/平台   
-### 1.[并行计算](https://github.com/fusimeng/ParallelComputing) 
+### 1.[并行计算相关知识](https://github.com/fusimeng/ParallelComputing) 
 
 
 ### 2.Cluster(集群，带GPU)  
@@ -48,7 +48,7 @@ TODO
   
 |公司 | 平台名称| 集群管理和调度|  
 |:----:|:-------:|:--------------:|    
-|微软|[OpenPAI](https://github.com/fusimeng/OpenPAI)/[Offical](https://github.com/Microsoft/pai)|Docker+Kubernets+Hadoop|    
+|微软|[OpenPAI](https://github.com/fusimeng/OpenPAI)/[Offical](https://github.com/Microsoft/pai)/[scm](https://github.com/fusimeng/scm)|Docker+Kubernets+Hadoop|    
 |百度|[PaddlePaddle](http://paddlepaddle.org/zh)|  Docker+Kubernets|  
 |腾讯|[Angel](https://github.com/Angel-ML/angel)|Docker+Yarn|  
 |阿里|[X-DeepLearning](https://github.com/alibaba/x-deeplearning)|Docker+Yarn|
@@ -57,18 +57,14 @@ TODO
 |才云科技|[clever](https://caicloud.io/products/clever)|Docker+Kubernetes|
 |Google|[Kubeflow](https://github.com/kubeflow)|Docker + Kubernetes|
 |IBM|[FFDL](https://github.com/IBM/FfDL)|?|
-||[scm](https://github.com/fusimeng/scm)|
-||[对比](notes/clusterframeworkcompare.md)|  
-|| pdsh |
-|| slurm |
-|| clustershell |
-
+|[对比](notes/clusterframeworkcompare.md)   |
+**相关技术**     
+* pdsh |slurm |clustershell 
 * [Kubernates](https://github.com/fusimeng/k8s) 
 * [Docker](https://github.com/fusimeng/Docker)   
     * [docker命令指南](https://github.com/fusimeng/docker-directive)
 * [微服务](https://github.com/fusimeng/micro-Services-Tutorial)   
-### 6.工具库   
-* OpenCV  
+ 
 ### 3.Framework([深度学习框架]((notes/frameworks.md) ))  
 * Tensorflow
     * [TensorFlow1.x](https://github.com/fusimeng/TensorFlow)   
