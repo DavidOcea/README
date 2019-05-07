@@ -49,24 +49,21 @@ Ceph
 * [TensorRT](https://github.com/fusimeng/TensorRT)  
 * [Tensorboard](https://github.com/fusimeng/Tensorboard/settings)
 ### 3.Cluster——集群平台  
-|公司 | 平台名称| 集群管理和调度|  
-|:----:|:-------:|:--------------:|    
-|微软|[OpenPAI](https://github.com/fusimeng/OpenPAI)/[Offical](https://github.com/Microsoft/pai)/[scm](https://github.com/fusimeng/scm)|Docker+Kubernets+Hadoop|    
-|百度|[PaddlePaddle](http://paddlepaddle.org/zh)|  Docker+Kubernets|  
-|腾讯|[Angel](https://github.com/Angel-ML/angel)|Docker+Yarn|  
-|阿里|[X-DeepLearning](https://github.com/alibaba/x-deeplearning)|Docker+Yarn|
-|360|[Xlearning](https://github.com/Qihoo360/XLearning)|Yarn|
-|京东|登月|Docker+Kubernetes|
-|才云科技|[clever](https://caicloud.io/products/clever)|Docker+Kubernetes|
-|Google|[Kubeflow](https://github.com/kubeflow)|Docker + Kubernetes|
+|公司 | 平台名称| 管理&调度| 公司 | 平台名称| 管理&调度| 
+|:----:|:-------:|:------:| :----:|:-------:|:-------:|    
+|微软|[OpenPAI](https://github.com/fusimeng/OpenPAI)/[Offical](https://github.com/Microsoft/pai)/[scm](https://github.com/fusimeng/scm)|Docker+Kubernets+Hadoop|百度|[PaddlePaddle](http://paddlepaddle.org/zh)|  Docker+Kubernets|  
+|腾讯|[Angel](https://github.com/Angel-ML/angel)|Docker+Yarn|阿里|[X-DeepLearning](https://github.com/alibaba/x-deeplearning)|Docker+Yarn|
+|360|[Xlearning](https://github.com/Qihoo360/XLearning)|Yarn|京东|登月|Docker+Kubernetes|
+|才云科技|[clever](https://caicloud.io/products/clever)|Docker+Kubernetes|Google|[Kubeflow](https://github.com/kubeflow)|Docker + Kubernetes|
 |IBM|[FFDL](https://github.com/IBM/FfDL)|?|
 |[对比](notes/clusterframeworkcompare.md)   |
 **相关技术**     
-* pdsh |slurm |clustershell 
-* [Kubernates](https://github.com/fusimeng/k8s) 
-* [Docker](https://github.com/fusimeng/Docker)   
-    * [docker命令指南](https://github.com/fusimeng/docker-directive)
-* [微服务](https://github.com/fusimeng/micro-Services-Tutorial)   
+1 .pdsh |slurm |clustershell    
+2 .[Kubernates](https://github.com/fusimeng/k8s) 
+3 .[Docker](https://github.com/fusimeng/Docker)
+* [docker命令指南](https://github.com/fusimeng/docker-directive)
+
+4 .[微服务](https://github.com/fusimeng/micro-Services-Tutorial)   
 
 ## 五、L(language)——编程语言   
 * 1.[Python](https://github.com/fusimeng/Python)  
