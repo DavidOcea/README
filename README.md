@@ -40,18 +40,8 @@ TODO
 * [Yarn](https://github.com/fusimeng/Yarn)    
 * Ceph      
 ## 四、C(computing)——计算力/平台   
-### 1.[并行计算](https://github.com/fusimeng/ParallelComputing)  | [集群底层通信协议](https://github.com/fusimeng/UnderlyingProtocol) 
-* MPI/[Open-MPI](https://www.open-mpi.org/)/[Intel MPI](https://software.intel.com/en-us/mpi-library)/[MVAPICH2](http://mvapich.cse.ohio-state.edu/)
-* OpenMP
-* OpenCL
-* OpenGL
-* CUDA 
-* [gloo](https://github.com/facebookincubator/gloo)   
-* [nccl](https://github.com/NVIDIA/nccl)    
-#### ---- 集群管理工具 ------
-* pdsh 
-* slurm 
-* clustershell 
+### 1.[并行计算](https://github.com/fusimeng/ParallelComputing) 
+
 
 ### 2.Cluster(集群，带GPU)  
 *表1互联网业界机器学习平台架构对比*    
@@ -69,7 +59,16 @@ TODO
 |IBM|[FFDL](https://github.com/IBM/FfDL)|?|
 ||[scm](https://github.com/fusimeng/scm)|
 ||[对比](notes/clusterframeworkcompare.md)|  
-  
+|| pdsh |
+|| slurm |
+|| clustershell |
+
+* [Kubernates](https://github.com/fusimeng/k8s) 
+* [Docker](https://github.com/fusimeng/Docker)   
+    * [docker命令指南](https://github.com/fusimeng/docker-directive)
+* [微服务](https://github.com/fusimeng/micro-Services-Tutorial)   
+### 6.工具库   
+* OpenCV  
 ### 3.Framework([深度学习框架]((notes/frameworks.md) ))  
 * Tensorflow
     * [TensorFlow1.x](https://github.com/fusimeng/TensorFlow)   
@@ -84,17 +83,8 @@ TODO
 * [ONNX](https://github.com/onnx)     
 * [TensorRT](https://github.com/fusimeng/TensorRT)  
 * [Tensorboard](https://github.com/fusimeng/Tensorboard/settings)
-### 4.GPU 硬件知识
-* [GPU & CUDA](https://github.com/fusimeng/GPU-CUDA)     
-* FPGA 
     
-### 5.集群
-* [Kubernates](https://github.com/fusimeng/k8s) 
-* [Docker](https://github.com/fusimeng/Docker)   
-    * [docker命令指南](https://github.com/fusimeng/docker-directive)
-* [微服务](https://github.com/fusimeng/micro-Services-Tutorial)   
-### 6.工具库   
-* OpenCV  
+
 
 ## 五、L(language)——编程语言   
 * 1.[Python](https://github.com/fusimeng/Python)  
