@@ -11,30 +11,26 @@
 ||||[AdaBoost](https://github.com/fusimeng/AdaBoost)|
 ||||[GradientBoosting](https://github.com/fusimeng/GradientBoosting)|
 ||||[Xgboost](https://github.com/fusimeng/Xgboost)|
-* [参考1 tutorial](https://github.com/fusimeng/Algorithms-Tutorial)
-* [参考2 tutorial-2](https://github.com/fusimeng/tutorial)
-* [参考3 spark ml](https://github.com/fusimeng/spark-ml-source-analysis)
-* [参考4 ML/DL/NLP](https://github.com/fusimeng/AiLearning)
-
-
+**参考文档**  
+|[参考1 tutorial](https://github.com/fusimeng/Algorithms-Tutorial) | [参考2 tutorial-2](https://github.com/fusimeng/tutorial)| [参考3 spark ml](https://github.com/fusimeng/spark-ml-source-analysis)| [参考4 ML/DL/NLP](https://github.com/fusimeng/AiLearning)|
 ### 2.DeepLearning(深度学习) 
-|[CNN](https://github.com/fusimeng/CNNTutorials) |RNN|[GAN](https://github.com/fusimeng/GANTutorials)|  
-|:----:|:----:|:----:|
-|[MaskRCNN](https://github.com/fusimeng/MaskRCNN)|||
-|[Yolo-v1](https://github.com/fusimeng/Yolo-v1)|||
-|[AlexNet](https://github.com/fusimeng/AlexNet)|||
-|[Lenet](https://github.com/fusimeng/LeNet)|||
+|[CNN](https://github.com/fusimeng/CNNTutorials)|RNN|[GAN](https://github.com/fusimeng/GANTutorials)|  
+|:-------:|:----:|:----:|
+|[MaskRCNN](https://github.com/fusimeng/MaskRCNN)/[Yolo-v1](https://github.com/fusimeng/Yolo-v1)|||
+|[AlexNet](https://github.com/fusimeng/AlexNet)/[Lenet](https://github.com/fusimeng/LeNet)|||
 ## 三、B(big data)——大数据  
 ### 1.DataSet(数据集)  
-* [Cifar10](http://www.cs.toronto.edu/~kriz/cifar.html)  
-* [Pascal VOC](http://host.robots.ox.ac.uk/pascal/VOC/)   
-* [MNIST](http://yann.lecun.com/exdb/mnist/)  
+|序号|标准数据集| 第三方提供的数据集|
+|:--:|:---:|:---:|
+|1|[Cifar10](http://www.cs.toronto.edu/~kriz/cifar.html)|[超神经](https://hyper.ai/datasets)|
+|2|[Pascal VOC](http://host.robots.ox.ac.uk/pascal/VOC/)||
+|3|[MNIST](http://yann.lecun.com/exdb/mnist/) || 
 ### 2.DataProcessingTechnique(数据处理技术)  
-* [Hadoop](https://github.com/fusimeng/Hadoop)  
-* [Hadoop-HA](https://github.com/fusimeng/Hadoop-HA)  
-* [Hadoop-MapReduce](https://github.com/fusimeng/Hadoop-MapReduce)  
-* [Yarn](https://github.com/fusimeng/Yarn)    
-* Ceph      
+[Hadoop](https://github.com/fusimeng/Hadoop)  
+[Hadoop-HA](https://github.com/fusimeng/Hadoop-HA) 
+[Hadoop-MapReduce](https://github.com/fusimeng/Hadoop-MapReduce)  
+[Yarn](https://github.com/fusimeng/Yarn)    
+Ceph      
 ## 四、C(computing)——计算力/平台   
 ### 1.[并行计算相关知识](https://github.com/fusimeng/ParallelComputing) 
 ### 2.Framework——[深度学习框架](notes/frameworks.md)
