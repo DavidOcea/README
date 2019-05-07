@@ -5,29 +5,25 @@
 * [ApacheCN-GitHub
 ](https://github.com/apachecn)| [ApacheCN](http://www.apachecn.org/)   
 ## 二、A(algorithm)——算法   
-## 1.MachineLearning(机器学习)   
-##### [参考1:算法Tutorial](https://github.com/fusimeng/Algorithms-Tutorial)|[参考2：算法tutorial](https://github.com/fusimeng/tutorial)|[参考3:spark ml](https://github.com/fusimeng/spark-ml-source-analysis)|[参考4:ML/DL/NLP](https://github.com/fusimeng/AiLearning)|     
-### I.Classification(分类)   
-TODO 
-### II.Regression(回归)  
-TODO
-### III.Cluster(聚类)  
-TODO  
-### IV.EnsembleLearning(集成学习)  
-* [AdaBoost](https://github.com/fusimeng/AdaBoost)   
-* [GradientBoosting](https://github.com/fusimeng/GradientBoosting)  
-* [Xgboost](https://github.com/fusimeng/Xgboost)  
-## 2.DeepLearning(深度学习) 
-### I. [CNN](https://github.com/fusimeng/CNNTutorials)  
-* [MaskRCNN](https://github.com/fusimeng/MaskRCNN)  
-* [Yolo-v1](https://github.com/fusimeng/Yolo-v1)   
-* [AlexNet](https://github.com/fusimeng/AlexNet)   
-* [Lenet](https://github.com/fusimeng/LeNet)  
+### 1.MachineLearning(机器学习)   
+|Classification(分类)|Regression(回归)|Cluster(聚类)|EnsembleLearning(集成学习)|  
+|:----:|:----:|:----:|:-----:|   
+||||[AdaBoost](https://github.com/fusimeng/AdaBoost)|
+||||[GradientBoosting](https://github.com/fusimeng/GradientBoosting)|
+||||[Xgboost](https://github.com/fusimeng/Xgboost)|
+* [参考1 tutorial](https://github.com/fusimeng/Algorithms-Tutorial)
+* [参考2 tutorial-2](https://github.com/fusimeng/tutorial)
+* [参考3 spark ml](https://github.com/fusimeng/spark-ml-source-analysis)
+* [参考4 ML/DL/NLP](https://github.com/fusimeng/AiLearning)
 
-### II.RNN(循环神经网络)  
-TODO
-### III.[GAN](https://github.com/fusimeng/GANTutorials)(对抗生成网络)  
-TODO  
+
+### 2.DeepLearning(深度学习) 
+|[CNN](https://github.com/fusimeng/CNNTutorials) |RNN|[GAN](https://github.com/fusimeng/GANTutorials)|  
+|:----:|:----:|:----:|
+|[MaskRCNN](https://github.com/fusimeng/MaskRCNN)|||
+|[Yolo-v1](https://github.com/fusimeng/Yolo-v1)|||
+|[AlexNet](https://github.com/fusimeng/AlexNet)|||
+|[Lenet](https://github.com/fusimeng/LeNet)|||
 ## 三、B(big data)——大数据  
 ### 1.DataSet(数据集)  
 * [Cifar10](http://www.cs.toronto.edu/~kriz/cifar.html)  
@@ -41,11 +37,21 @@ TODO
 * Ceph      
 ## 四、C(computing)——计算力/平台   
 ### 1.[并行计算相关知识](https://github.com/fusimeng/ParallelComputing) 
-
-
-### 2.Cluster(集群，带GPU)  
-*表1互联网业界机器学习平台架构对比*    
-  
+### 2.Framework——[深度学习框架](notes/frameworks.md)
+* Tensorflow
+    * [TensorFlow1.x](https://github.com/fusimeng/TensorFlow)   
+    * [《深入理解TensorFlow》项目代码与样章](https://github.com/fusimeng/tensorflow-in-depth)  
+    * [TensorFlow2.x](https://github.com/fusimeng/TensorFlow2.x)      
+    *  [TensorFlow2.0Tutorials](https://github.com/fusimeng/TensorFlow2.0Tutorials)   
+* [MxNet](https://github.com/fusimeng/mxnet_)  
+    * [MxNet Tutorial](https://github.com/fusimeng/MxNet)      
+* [PyTorch](https://github.com/fusimeng/PyTorch)  
+    * [Examples](https://github.com/fusimeng/pytorchexamples)  
+* [Horovod](https://github.com/fusimeng/Horovod)
+* [ONNX](https://github.com/onnx)     
+* [TensorRT](https://github.com/fusimeng/TensorRT)  
+* [Tensorboard](https://github.com/fusimeng/Tensorboard/settings)
+### 3.Cluster——集群平台  
 |公司 | 平台名称| 集群管理和调度|  
 |:----:|:-------:|:--------------:|    
 |微软|[OpenPAI](https://github.com/fusimeng/OpenPAI)/[Offical](https://github.com/Microsoft/pai)/[scm](https://github.com/fusimeng/scm)|Docker+Kubernets+Hadoop|    
@@ -64,39 +70,20 @@ TODO
 * [Docker](https://github.com/fusimeng/Docker)   
     * [docker命令指南](https://github.com/fusimeng/docker-directive)
 * [微服务](https://github.com/fusimeng/micro-Services-Tutorial)   
- 
-### 3.Framework([深度学习框架]((notes/frameworks.md) ))  
-* Tensorflow
-    * [TensorFlow1.x](https://github.com/fusimeng/TensorFlow)   
-    * [《深入理解TensorFlow》项目代码与样章](https://github.com/fusimeng/tensorflow-in-depth)  
-    * [TensorFlow2.x](https://github.com/fusimeng/TensorFlow2.x)      
-    *  [TensorFlow2.0Tutorials](https://github.com/fusimeng/TensorFlow2.0Tutorials)   
-* [MxNet](https://github.com/fusimeng/mxnet_)  
-    * [MxNet Tutorial](https://github.com/fusimeng/MxNet)      
-* [PyTorch](https://github.com/fusimeng/PyTorch)  
-    * [Examples](https://github.com/fusimeng/pytorchexamples)  
-* [Horovod](https://github.com/fusimeng/Horovod)
-* [ONNX](https://github.com/onnx)     
-* [TensorRT](https://github.com/fusimeng/TensorRT)  
-* [Tensorboard](https://github.com/fusimeng/Tensorboard/settings)
-    
-
 
 ## 五、L(language)——编程语言   
 * 1.[Python](https://github.com/fusimeng/Python)  
 * 2.[Git&Mardown](https://github.com/fusimeng/Git)   
     * [Markdown2pdf](https://github.com/fusimeng/transfer)  
-
 * 3.[C++](https://github.com/fusimeng/C)  
 * 4.[Linux](https://github.com/fusimeng/Linux)   
     * [Linux超赞软件](https://github.com/fusimeng/Awesome-Linux-Software-zh_CN)   
 
 ## 六、VideoCodec——视频编解码  
-### 1.DeepStream  
-* [DeepStream3.0](https://github.com/fusimeng/DeepStream3.0)  
-* [Gstreamer](https://github.com/fusimeng/Gstreamer)  
-### 2.VideoCodec  
-* [VideoCodecTheoryBasis](https://github.com/fusimeng/VideoCodecTheoryBasis)  
+### 1.[基础知识](https://github.com/fusimeng/VideoCodecTheoryBasis)  
+### 2.[DeepStream](https://github.com/fusimeng/DeepStream3.0)  
+### 3.[Gstreamer](https://github.com/fusimeng/Gstreamer)  
+ 
 
 ## 七、数学笔记   
 * [高数](https://github.com/fusimeng/Math/tree/master/higher_mathematics)  
@@ -112,9 +99,7 @@ TODO
 * Jupyter  
 * [Anaconda](https://github.com/fusimeng/ai_tools)
 
-## 九、学校课程  
-TODO  
-## 十、NVIDIA
+## 九、NVIDIA
 ### 1.NVIDIA  SDK & Libraries
 * cuBLAS
 * cuDNN
