@@ -1,8 +1,4 @@
-# GitHub  Catalog(GitHub目录)   
-修改时间：2019-04-03   
-## 文件夹介绍   
-* imgs--> 笔记图片   
-* notes--> 笔记   
+# GitHub  Catalog(GitHub目录)    
 ## 一、[Introduction](notes/introduction01.md)(绪论)  
 * [Books](https://github.com/fusimeng/book)  
 * [程序员最应该访问的网站](https://github.com/fusimeng/Best-websites-a-programmer-should-visit-zh)   
