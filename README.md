@@ -124,7 +124,7 @@ TODO
 * [tools](https://github.com/fusimeng/tools)这个是私有项目。 
 * pycharm  
 * Jupyter  
-
+* [Anaconda](https://github.com/fusimeng/ai_tools)
 
 ## 九、学校课程  
 TODO  
