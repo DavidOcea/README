@@ -56,7 +56,8 @@ Ceph
 |360|[Xlearning](https://github.com/Qihoo360/XLearning)|Yarn|京东|登月|Docker+Kubernetes|
 |才云科技|[clever](https://caicloud.io/products/clever)|Docker+Kubernetes|Google|[Kubeflow](https://github.com/kubeflow)|Docker + Kubernetes|
 |IBM|[FFDL](https://github.com/IBM/FfDL)|?|
-|[对比](notes/clusterframeworkcompare.md)   |
+|[对比](notes/clusterframeworkcompare.md)   |   
+   
 **相关技术**     
 1 .pdsh |slurm |clustershell    
 2 .[Kubernates](https://github.com/fusimeng/k8s) 
