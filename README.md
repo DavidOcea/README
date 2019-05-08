@@ -27,13 +27,10 @@
 |2|[Pascal VOC](http://host.robots.ox.ac.uk/pascal/VOC/)||
 |3|[MNIST](http://yann.lecun.com/exdb/mnist/) || 
 ### 2.DataProcessingTechnique(数据处理技术)  
-[Hadoop](https://github.com/fusimeng/Hadoop)  
-[Hadoop-HA](https://github.com/fusimeng/Hadoop-HA) 
-[Hadoop-MapReduce](https://github.com/fusimeng/Hadoop-MapReduce)  
-[Yarn](https://github.com/fusimeng/Yarn)    
-Ceph      
+[Hadoop](https://github.com/fusimeng/Hadoop) | [Hadoop-HA](https://github.com/fusimeng/Hadoop-HA) 
+[Hadoop-MapReduce](https://github.com/fusimeng/Hadoop-MapReduce)  | [Yarn](https://github.com/fusimeng/Yarn) | Ceph        
 ## 四、C(computing)——计算力/平台   
-### 1.[并行计算相关知识](https://github.com/fusimeng/ParallelComputing) 
+### 1.ParallelComputing-[并行计算相关知识](https://github.com/fusimeng/ParallelComputing) 
 ### 2.Framework——[深度学习框架](notes/frameworks.md)
 * Tensorflow
     * [TensorFlow1.x](https://github.com/fusimeng/TensorFlow)   
@@ -43,7 +40,6 @@ Ceph
 * [MxNet](https://github.com/fusimeng/mxnet_)  
     * [MxNet Tutorial](https://github.com/fusimeng/MxNet)      
 * [PyTorch](https://github.com/fusimeng/PyTorch)  
-    * [Examples](https://github.com/fusimeng/pytorchexamples)  
 * [Horovod](https://github.com/fusimeng/Horovod)
 * [ONNX](https://github.com/onnx)     
 * [TensorRT](https://github.com/fusimeng/TensorRT)  
@@ -60,11 +56,11 @@ Ceph
    
 **相关技术**     
 1 .pdsh |slurm |clustershell    
-2 .[Kubernates](https://github.com/fusimeng/k8s) 
-3 .[Docker](https://github.com/fusimeng/Docker)
-* [docker命令指南](https://github.com/fusimeng/docker-directive)
+2 .[Kubernates](https://github.com/fusimeng/k8s)    
+3 .[Docker](https://github.com/fusimeng/Docker)   
+* [docker命令指南](https://github.com/fusimeng/docker-directive)    
 
-4 .[微服务](https://github.com/fusimeng/micro-Services-Tutorial)   
+4 .[微服务](https://github.com/fusimeng/micro-Services-Tutorial)     
 
 ## 五、L(language)——编程语言   
 * 1.[Python](https://github.com/fusimeng/Python)  
