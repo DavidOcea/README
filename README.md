@@ -33,7 +33,8 @@
 * [PyTorch](https://github.com/fusimeng/PyTorch) 
 * [Horovod](https://github.com/fusimeng/Horovod)
 * [ONNX](https://github.com/onnx)     
-* [TensorRT](https://github.com/fusimeng/TensorRT)  
+* [TensorRT](https://github.com/fusimeng/TensorRT) 
+* [MixedPrecise](https://github.com/fusimeng/MixedPrecise) 
 * [Tensorboard](https://github.com/fusimeng/Tensorboard/settings)
 * Tensorflow
     * [TensorFlow1.x](https://github.com/fusimeng/TensorFlow)   
