@@ -28,22 +28,23 @@
 [Hadoop](https://github.com/fusimeng/Hadoop) | [Hadoop-HA](https://github.com/fusimeng/Hadoop-HA) 
 [Hadoop-MapReduce](https://github.com/fusimeng/Hadoop-MapReduce)  | [Yarn](https://github.com/fusimeng/Yarn) | Ceph        
 ## 四、C(computing)——计算力/平台   
-### 1.ParallelComputing-[并行计算相关知识](https://github.com/fusimeng/ParallelComputing) 
-### 2.Framework——[深度学习框架](notes/frameworks.md)
-* [PyTorch](https://github.com/fusimeng/PyTorch) 
+### 1.操作系统——[OS/Linux](https://github.com/fusimeng/Linux)
+
+### 2.ParallelComputing-[并行计算](https://github.com/fusimeng/ParallelComputing) 
+### 3.Framework——[框架](notes/frameworks.md)
+* [PyTorch](https://github.com/fusimeng/PyTorch)|[MxNet](https://github.com/fusimeng/mxnet)|[TensorFlow](https://github.com/fusimeng/tensorflow) 
 * [Horovod](https://github.com/fusimeng/Horovod)
 * [ONNX](https://github.com/onnx)     
 * [TensorRT](https://github.com/fusimeng/TensorRT) 
 * [MixedPrecise](https://github.com/fusimeng/MixedPrecise) 
 * [Tensorboard](https://github.com/fusimeng/Tensorboard/settings)
-* Tensorflow
-    * [TensorFlow1.x](https://github.com/fusimeng/TensorFlow)   
-    * [《深入理解TensorFlow》项目代码与样章](https://github.com/fusimeng/tensorflow-in-depth)  
-    * [TensorFlow2.x](https://github.com/fusimeng/TensorFlow2.x)      
-    *  [TensorFlow2.0Tutorials](https://github.com/fusimeng/TensorFlow2.0Tutorials)   
-* [MxNet](https://github.com/fusimeng/mxnet_)  
-    * [MxNet Tutorial](https://github.com/fusimeng/MxNet)      
-### 3.Cluster——集群平台  
+### 4.Scheduling——集群调度技术
+|名称|链接|名称|链接|
+|:-:|:-:|:-:|:-:|
+|pdsh|N/A|slurm|N/A|
+|clustershell|N/A|||
+|Docker|[Link](https://github.com/fusimeng/Docker)|Kubernates|[Link](https://github.com/fusimeng/k8s)|    
+### 5.Cluster——集群平台  
 |公司 | 平台名称| 管理&调度| 公司 | 平台名称| 管理&调度| 
 |:----:|:-------:|:------:| :----:|:-------:|:-------:|    
 |微软|[OpenPAI](https://github.com/fusimeng/OpenPAI)/[Offical](https://github.com/Microsoft/pai)/[scm](https://github.com/fusimeng/scm)|Docker+Kubernets+Hadoop|百度|[PaddlePaddle](http://paddlepaddle.org/zh)|  Docker+Kubernets|  
@@ -53,20 +54,13 @@
 |IBM|[FFDL](https://github.com/IBM/FfDL)|?|
 |[对比](notes/clusterframeworkcompare.md)   |   
    
-**相关技术**     
-1 .pdsh |slurm |clustershell    
-2 .[Kubernates](https://github.com/fusimeng/k8s)    
-3 .[Docker](https://github.com/fusimeng/Docker)   
-* [docker命令指南](https://github.com/fusimeng/docker-directive)    
-
-4 .[微服务](https://github.com/fusimeng/micro-Services-Tutorial)     
+    
 ## 五、L(language)——编程语言   
-* 1.[Python](https://github.com/fusimeng/Python)  
-* 2.[Git&Mardown](https://github.com/fusimeng/Git)   
-    * [Markdown2pdf](https://github.com/fusimeng/transfer)  
-* 3.[C++](https://github.com/fusimeng/C)  
-* 4.[Linux](https://github.com/fusimeng/Linux)   
-    * [Linux超赞软件](https://github.com/fusimeng/Awesome-Linux-Software-zh_CN)   
+|语言|链接|语言|链接|
+|:-:|:-:|:-:|:-:|
+|Python|[🔗](https://github.com/fusimeng/Python)|Git/Markdown|[Link](https://github.com/fusimeng/Git)|
+|C++|[Link](https://github.com/fusimeng/C)||
+ 
 ## 六、VideoCodec——视频编解码  
 #### 1.VideoCodecTheoryBasis-[基础知识](https://github.com/fusimeng/VideoCodecTheoryBasis)  
 #### 2.[DeepStream](https://github.com/fusimeng/DeepStream3.0)  
@@ -77,6 +71,6 @@
 * [数理统计](https://github.com/fusimeng/Math/tree/master/mathematical_statistics)  
 * [概率论](https://github.com/fusimeng/Math/tree/master/probability_theory)  
 ## 八、工具  
-### 1. [AI工具](https://github.com/fusimeng/ai_tools)——[Anaconda、Jupyter]
+### 1. [AI工具](https://github.com/fusimeng/ai_tools)——[Anaconda、Jupyter、Pycharm……]
 
 
