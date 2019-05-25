@@ -1,5 +1,7 @@
 # 常见深度学习框架对比
+[参考-1](https://blogs.nvidia.com.tw/2018/12/how-get-started-deep-learning-frameworks/)   
 2018年9月21日更新：我改进了一些测度的方法。  
+
 ## 1.目前存在的框架  
 ![](imgs/01.png)   
 ![](imgs/14.png)  
