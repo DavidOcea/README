@@ -47,12 +47,11 @@
 ### 5.Cluster——集群平台  
 |公司 | 平台名称| 管理&调度| 公司 | 平台名称| 管理&调度| 
 |:----:|:-------:|:------:| :----:|:-------:|:-------:|    
-|微软|[OpenPAI](https://github.com/fusimeng/OpenPAI)/[Offical](https://github.com/Microsoft/pai)/[scm](https://github.com/fusimeng/scm)|Docker+Kubernets+Hadoop|百度|[PaddlePaddle](http://paddlepaddle.org/zh)|  Docker+Kubernets|  
+|微软|[OpenPAI](https://github.com/fusimeng/OpenPAI)|Docker+Kubernets+Hadoop|百度|[PaddlePaddle](http://paddlepaddle.org/zh)|  Docker+Kubernets|  
 |腾讯|[Angel](https://github.com/Angel-ML/angel)|Docker+Yarn|阿里|[X-DeepLearning](https://github.com/alibaba/x-deeplearning)|Docker+Yarn|
 |360|[Xlearning](https://github.com/Qihoo360/XLearning)|Yarn|京东|登月|Docker+Kubernetes|
 |才云科技|[clever](https://caicloud.io/products/clever)|Docker+Kubernetes|Google|[Kubeflow](https://github.com/kubeflow)|Docker + Kubernetes|
 |IBM|[FFDL](https://github.com/IBM/FfDL)|?|
-|[对比](notes/clusterframeworkcompare.md)   |   
    
     
 ## 五、L(language)——编程语言   
