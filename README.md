@@ -37,7 +37,7 @@
 * [ONNX](https://github.com/onnx)     
 * [TensorRT](https://github.com/fusimeng/TensorRT) 
 * [MixedPrecise](https://github.com/fusimeng/MixedPrecise) 
-* [Tensorboard](https://github.com/fusimeng/Tensorboard/settings)
+* [Tensorboard](https://github.com/fusimeng/Tensorboard)
 ### 4.Scheduling——集群调度技术
 |名称|链接|名称|链接|
 |:-:|:-:|:-:|:-:|
