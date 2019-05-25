@@ -41,9 +41,9 @@
 ### 4.Scheduling——集群调度技术
 |名称|链接|名称|链接|
 |:-:|:-:|:-:|:-:|
-|pdsh|N/A|slurm|N/A|
-|clustershell|N/A|||
-|Docker|[Link](https://github.com/fusimeng/Docker)|Kubernates|[Link](https://github.com/fusimeng/k8s)|    
+|pdsh|[GitHub](https://github.com/chaos/pdsh)|slurm|[官网](https://slurm.schedmd.com/quickstart.html)/[IBM](https://www.ibm.com/developerworks/cn/linux/l-slurm-utility/index.html)|
+|clustershell|[GitHub](https://github.com/cea-hpc/clustershell)|||
+|Docker|[🔗](https://github.com/fusimeng/Docker)|Kubernates|[🔗](https://github.com/fusimeng/k8s)|    
 ### 5.Cluster——集群平台  
 |公司 | 平台名称| 管理&调度| 公司 | 平台名称| 管理&调度| 
 |:----:|:-------:|:------:| :----:|:-------:|:-------:|    
@@ -58,8 +58,8 @@
 ## 五、L(language)——编程语言   
 |语言|链接|语言|链接|
 |:-:|:-:|:-:|:-:|
-|Python|[🔗](https://github.com/fusimeng/Python)|Git/Markdown|[Link](https://github.com/fusimeng/Git)|
-|C++|[Link](https://github.com/fusimeng/C)||
+|Python|[🔗](https://github.com/fusimeng/Python)|Git/Markdown|[🔗](https://github.com/fusimeng/Git)|
+|C++|[🔗](https://github.com/fusimeng/C)||
  
 ## 六、VideoCodec——视频编解码  
 #### 1.VideoCodecTheoryBasis-[基础知识](https://github.com/fusimeng/VideoCodecTheoryBasis)  
