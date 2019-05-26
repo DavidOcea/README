@@ -1,11 +1,13 @@
 # GitHub  Catalog(GitHub目录)    
 ## 一、[Introduction](notes/introduction01.md)(绪论)  
-|序号|参考文档|序号|参考文档|
-|:--:|:--:|:--:|:--:|
-|1|[Books](https://github.com/fusimeng/book)|2|[程序员最应该访问的网站](https://github.com/fusimeng/Best-websites-a-programmer-should-visit-zh)|
-|3|[ApacheCN-GitHub](https://github.com/apachecn)/[ApacheCN](http://www.apachecn.org/)|4|[tutorial-1](https://github.com/fusimeng/Algorithms-Tutorial)|
-|5|[tutorial-2](https://github.com/fusimeng/tutorial)|6|[spark ml](https://github.com/fusimeng/spark-ml-source-analysis)|
-|7|[ML/DL/NLP](https://github.com/fusimeng/AiLearning)|8||
+### 1.Blog
+|Blog|链接|Blog|链接|Blog|链接|Blog|链接|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|📚|[🔗](https://github.com/fusimeng/book)|blog|[🔗](https://github.com/fusimeng/Best-websites-a-programmer-should-visit-zh)|ApacheCN|[🔗](https://github.com/apachecn)/[🔗](http://www.apachecn.org/)/[🔗](https://github.com/fusimeng/AiLearning)|DL-A|[🔗](https://github.com/fusimeng/Algorithms-Tutorial)/[🔗](https://github.com/fusimeng/tutorial)|
+|spark ml|[🔗](https://github.com/fusimeng/spark-ml-source-analysis)|GPU world|[🔗](http://www.gpuworld.cn/)|机器之心|[🔗](https://www.jiqizhixin.com/)|雷锋网|[🔗](https://www.leiphone.com/)|
+|AI 研习社|[🔗](https://ai.yanxishe.com/)|CSDN|[🔗](https://blog.csdn.net/)|
+## 2.Video
+
 ## 二、A(algorithm)——算法   
 ### 1.MachineLearning(机器学习)   
 |Classification(分类)|Regression(回归)|Cluster(聚类)|EnsembleLearning(集成学习)|  
@@ -14,10 +16,10 @@
 ||||[GradientBoosting](https://github.com/fusimeng/GradientBoosting)|
 ||||[Xgboost](https://github.com/fusimeng/Xgboost)|
 ### 2.DeepLearning(深度学习) 
-|序号|[CNN](https://github.com/fusimeng/CNNTutorials)|RNN|[GAN](https://github.com/fusimeng/GANTutorials)|序号|[CNN](https://github.com/fusimeng/CNNTutorials)|RNN|[GAN](https://github.com/fusimeng/GANTutorials)|
-|:-----:|:----:|:----:|:-------:|:----:|:----:|:----:|:----:|
-|1|[MaskRCNN](https://github.com/fusimeng/MaskRCNN)|||2|[Yolo-v1](https://github.com/fusimeng/Yolo-v1)|||
-|3|[AlexNet](https://github.com/fusimeng/AlexNet)  |||4|[Lenet](https://github.com/fusimeng/LeNet)|||
+|[CNN](https://github.com/fusimeng/CNNTutorials)|链接|RNN|链接|[GAN](https://github.com/fusimeng/GANTutorials)|链接|[CNN](https://github.com/fusimeng/CNNTutorials)|链接|RNN|链接|[GAN](https://github.com/fusimeng/GANTutorials)|链接|
+|:-----:|:----:|:----:|:-------:|:----:|:----:|:----:|:----:|:-----:|:----:|:----:|:-------:|:----:|:----:|:----:|:----:|
+|MaskRCNN|[🔗](https://github.com/fusimeng/MaskRCNN)|||||Yolo-v1|[🔗](https://github.com/fusimeng/Yolo-v1)|
+|AlexNet|[🔗](https://github.com/fusimeng/AlexNet)|||||Lenet|[🔗](https://github.com/fusimeng/LeNet)|
 ## 三、B(big data)——大数据  
 ### 1.DataSet(数据集)  
 |数据集|链接| 数据集|链接|数据集|链接| 数据集|链接|
