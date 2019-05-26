@@ -77,7 +77,7 @@
 ### 1. [AI工具](https://github.com/fusimeng/ai_tools)——[Anaconda、Jupyter、Pycharm……]
 ## 九、API
 |API|链接|API|链接|API|链接|API|链接|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |W3cSchool|[🔗](https://www.w3cschool.cn/tutorial)|Docker|[🔗](https://docker-doc.readthedocs.io/zh_CN/latest/index.html)|K8s|[🔗](http://docs.kubernetes.org.cn/)|在线API|[🔗](http://tool.oschina.net/apidocs#H)|
 |Python相关|[🔗](http://www.pythondoc.com/)|Linux|[🔗](http://man.linuxde.net/)|易佰|[🔗](https://www.yiibai.com/)|菜鸟|[🔗](https://www.runoob.com/)|
 |TensorFlow|[🔗](https://tensorflow.google.cn/api_docs/python)|Keras|[🔗](https://keras.io/zh/layers/core/#input)|NCCL|[🔗](https://docs.nvidia.com/deeplearning/sdk/nccl-developer-guide/docs/overview.html)|Pytorch|[🔗](https://pytorch-cn.readthedocs.io/zh/latest/)|
