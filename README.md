@@ -20,10 +20,10 @@
 |3|[AlexNet](https://github.com/fusimeng/AlexNet)  |||4|[Lenet](https://github.com/fusimeng/LeNet)|||
 ## 三、B(big data)——大数据  
 ### 1.DataSet(数据集)  
-|序号|数据集| 序号|数据集|
-|:--:|:---:|:---:|:---:|
-|1|[Cifar10](http://www.cs.toronto.edu/~kriz/cifar.html)|2|[Pascal VOC](http://host.robots.ox.ac.uk/pascal/VOC/)|
-|3|[MNIST](http://yann.lecun.com/exdb/mnist/) |4|[超神经](https://hyper.ai/datasets)|
+|数据集|链接| 数据集|链接|数据集|链接| 数据集|链接|
+|:--:|:---:|:---:|:---:|:--:|:---:|:---:|:---:|
+|MNIST|[🔗](http://yann.lecun.com/exdb/mnist/)|Cifar10|[🔗](http://www.cs.toronto.edu/~kriz/cifar.html)|Pascal VOC|[🔗](http://host.robots.ox.ac.uk/pascal/VOC/)|超神经|[🔗](https://hyper.ai/datasets)|
+|ImageNet|[🔗](http://www.image-net.org/)|COCO|[🔗](http://cocodataset.org/#download)|AI Challenger|[🔗](https://challenger.ai/)|Kaggle|[🔗](https://www.kaggle.com/)|
 ### 2.DataProcessingTechnique[(数据处理技术)](notes/bigdataframework.md)  
 |框架|链接|框架|链接|框架|链接|
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -73,5 +73,13 @@
 * [概率论](https://github.com/fusimeng/Math/tree/master/probability_theory)  
 ## 八、工具  
 ### 1. [AI工具](https://github.com/fusimeng/ai_tools)——[Anaconda、Jupyter、Pycharm……]
+## 九、API
+|API|链接|API|链接|API|链接|API|链接|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|W3cSchool|[🔗](https://www.w3cschool.cn/tutorial)|Docker|[🔗](https://docker-doc.readthedocs.io/zh_CN/latest/index.html)|K8s|[🔗](http://docs.kubernetes.org.cn/)|在线API|[🔗](http://tool.oschina.net/apidocs#H)|
+|Python相关|[🔗](http://www.pythondoc.com/)|Linux|[🔗](http://man.linuxde.net/)|易佰|[🔗](https://www.yiibai.com/)|菜鸟|[🔗](https://www.runoob.com/)|
+|TensorFlow|[🔗](https://tensorflow.google.cn/api_docs/python)|Keras|[🔗](https://keras.io/zh/layers/core/#input)|NCCL|[🔗](https://docs.nvidia.com/deeplearning/sdk/nccl-developer-guide/docs/overview.html)|Pytorch|[🔗](https://pytorch-cn.readthedocs.io/zh/latest/)|
+|Ansible|[🔗](http://www.ansible.com.cn/#)|Jupyter|[🔗](https://jupyter-notebook.readthedocs.io/en/stable/index.html)|TensorRT|[🔗](https://docs.nvidia.com/deeplearning/sdk/tensorrt-api/python_api/index.html)|HDFScli|[🔗](https://hdfscli.readthedocs.io/en/latest/)|
+|AWS API|[🔗](https://docs.aws.amazon.com/zh_cn/dlami/latest/devguide/what-is-dlami.html)|IBM|[🔗](https://www.ibm.com/developerworks/cn/)|
 
 
