@@ -24,9 +24,11 @@
 |:--:|:---:|:---:|:---:|
 |1|[Cifar10](http://www.cs.toronto.edu/~kriz/cifar.html)|2|[Pascal VOC](http://host.robots.ox.ac.uk/pascal/VOC/)|
 |3|[MNIST](http://yann.lecun.com/exdb/mnist/) |4|[超神经](https://hyper.ai/datasets)|
-### 2.DataProcessingTechnique(数据处理技术)  
-[Hadoop](https://github.com/fusimeng/Hadoop) | [Hadoop-HA](https://github.com/fusimeng/Hadoop-HA) 
-[Hadoop-MapReduce](https://github.com/fusimeng/Hadoop-MapReduce)  | [Yarn](https://github.com/fusimeng/Yarn) | Ceph        
+### 2.DataProcessingTechnique[(数据处理技术)](notes/bigdataframework.md)  
+|框架|链接|框架|链接|框架|链接|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|Hadoop|[🔗](https://github.com/fusimeng/Hadoop)|Storm|🔗|Samza|🔗|
+|Spark|🔗|Flink|🔗|Ceph|🔗|      
 ## 四、C(computing)——计算力/平台   
 ### 1.操作系统——[OS/Linux](https://github.com/fusimeng/Linux)
 
