@@ -82,6 +82,6 @@
 |Python相关|[🔗](http://www.pythondoc.com/)|Linux|[🔗](http://man.linuxde.net/)|易佰|[🔗](https://www.yiibai.com/)|菜鸟|[🔗](https://www.runoob.com/)|
 |TensorFlow|[🔗](https://tensorflow.google.cn/api_docs/python)|Keras|[🔗](https://keras.io/zh/layers/core/#input)|NCCL|[🔗](https://docs.nvidia.com/deeplearning/sdk/nccl-developer-guide/docs/overview.html)|Pytorch|[🔗](https://pytorch-cn.readthedocs.io/zh/latest/)|
 |Ansible|[🔗](http://www.ansible.com.cn/#)|Jupyter|[🔗](https://jupyter-notebook.readthedocs.io/en/stable/index.html)|TensorRT|[🔗](https://docs.nvidia.com/deeplearning/sdk/tensorrt-api/python_api/index.html)|HDFScli|[🔗](https://hdfscli.readthedocs.io/en/latest/)|
-|AWS API|[🔗](https://docs.aws.amazon.com/zh_cn/dlami/latest/devguide/what-is-dlami.html)|IBM|[🔗](https://www.ibm.com/developerworks/cn/)|
+|AWS API|[🔗](https://docs.aws.amazon.com/zh_cn/dlami/latest/devguide/what-is-dlami.html)|IBM|[🔗](https://www.ibm.com/developerworks/cn/)|NVIDIA|[🔗](https://docs.nvidia.com/deeplearning/sdk/index.html)|
 
 
