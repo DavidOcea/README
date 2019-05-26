@@ -16,9 +16,8 @@
 ||||[GradientBoosting](https://github.com/fusimeng/GradientBoosting)|
 ||||[Xgboost](https://github.com/fusimeng/Xgboost)|
 ### 2.DeepLearning(深度学习) 
-
 |[CNN](https://github.com/fusimeng/CNNTutorials)|链接|RNN|链接|[GAN](https://github.com/fusimeng/GANTutorials)|链接|[CNN](https://github.com/fusimeng/CNNTutorials)|链接|RNN|链接|[GAN](https://github.com/fusimeng/GANTutorials)|链接|
-|:-----:|:----:|:----:|:-------:|:----:|:----:|:----:|:----:|:-----:|:----:|:----:|:-------:|:----:|:----:|:----:|:----:|
+|:-:|:-:|:----:|:--:|:----:|:----:|:----:|:----:|:-----:|:----:|:----:|:-------:|
 |MaskRCNN|[🔗](https://github.com/fusimeng/MaskRCNN)|RNN|🔗|GAN|🔗|Yolo-v1|[🔗](https://github.com/fusimeng/Yolo-v1)|RNN|🔗|GAN|🔗|
 |AlexNet|[🔗](https://github.com/fusimeng/AlexNet)|RNN|🔗|GAN|🔗|Lenet|[🔗](https://github.com/fusimeng/LeNet)|RNN|🔗|GAN|🔗|
 ## 三、B(big data)——大数据  
