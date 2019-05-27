@@ -84,4 +84,12 @@
 |Ansible|[🔗](http://www.ansible.com.cn/#)|Jupyter|[🔗](https://jupyter-notebook.readthedocs.io/en/stable/index.html)|TensorRT|[🔗](https://docs.nvidia.com/deeplearning/sdk/tensorrt-api/python_api/index.html)|HDFScli|[🔗](https://hdfscli.readthedocs.io/en/latest/)|
 |AWS API|[🔗](https://docs.aws.amazon.com/zh_cn/dlami/latest/devguide/what-is-dlami.html)|IBM|[🔗](https://www.ibm.com/developerworks/cn/)|NVIDIA|[🔗](https://docs.nvidia.com/deeplearning/sdk/index.html)|||
 
+## 十、NVIDIA 
+|平台|链接|平台|链接|平台|链接|平台|链接|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Clara|[🔗](https://developer.nvidia.com/clara)|Isaac|[🔗](https://developer.nvidia.com/isaac-sdk)|Digits|[🔗](https://github.com/NVIDIA/DIGITS)|Digits API|[🔗](https://docs.nvidia.com/deeplearning/digits/index.html)|
+|Rapids|[🔗](https://rapids.ai/)|Rapids GitHub|[🔗](https://github.com/rapidsai)|cudf|[🔗](https://rapidsai.github.io/projects/cudf/en/latest/)|cuml|[🔗](https://rapidsai.github.io/projects/cuml/en/latest/)|
+|Dask|[🔗](https://dask.org/)|||||
+
+
 
