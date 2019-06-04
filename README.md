@@ -55,8 +55,7 @@
 |腾讯|[Angel](https://github.com/Angel-ML/angel)|Docker+Yarn|阿里|[X-DeepLearning](https://github.com/alibaba/x-deeplearning)|Docker+Yarn|
 |360|[Xlearning](https://github.com/Qihoo360/XLearning)|Yarn|京东|登月|Docker+Kubernetes|
 |才云科技|[clever](https://caicloud.io/products/clever)|Docker+Kubernetes|Google|[Kubeflow](https://github.com/kubeflow)|Docker + Kubernetes|
-|IBM|[FFDL](https://github.com/IBM/FfDL)|?|
-   
+|IBM|[FFDL](https://github.com/IBM/FfDL)|?|启智|[OpenI](https://openi.org.cn/)|Yarn+Docker|
     
 ## 五、L(language)——编程语言   
 |语言|链接|语言|链接|
