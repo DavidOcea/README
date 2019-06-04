@@ -10,11 +10,15 @@
 
 ## 二、A(algorithm)——算法   
 ### 1.MachineLearning(机器学习)   
-|Classification(分类)|Regression(回归)|Cluster(聚类)|EnsembleLearning(集成学习)|  
-|:----:|:----:|:----:|:-----:|   
-||||[AdaBoost](https://github.com/fusimeng/AdaBoost)|
-||||[GradientBoosting](https://github.com/fusimeng/GradientBoosting)|
-||||[Xgboost](https://github.com/fusimeng/Xgboost)|
+机器学习算法分为几大类：Classification(分类)、Regression(回归)、Cluster(聚类)、EnsembleLearning(集成学习)等。    
+|算法|链接|算法|链接|算法|链接|算法|链接|
+|:----:|:----:|:----:|:-----:|:----:|:-----:| :----:|:-----:|
+|AdaBoost|[🔗](https://github.com/fusimeng/AdaBoost)|GradientBoosting|[🔗](https://github.com/fusimeng/GradientBoosting)|Xgboost|[🔗](https://github.com/fusimeng/Xgboost)|PCA||
+**参考网站**：  
+|Site|Link|Site|Link|Site|Link|Site|Link|   
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|Sklearn|[🔗](https://scikit-learn.org/stable/#)|Notes|[🔗](https://feisky.xyz/machine-learning/)|Notes GitHub|[🔗](https://github.com/trekhleb/homemade-machine-learning)|Pandas|[🔗](http://pandas.pydata.org/)/[🔗](https://www.yiibai.com/pandas)|
+|Numpy|[🔗](https://www.numpy.org/)/[🔗](https://www.runoob.com/numpy/numpy-tutorial.html)|Seaborn|[🔗](https://seaborn.pydata.org/)|Matplotlib|[🔗](https://matplotlib.org/)|||
 ### 2.DeepLearning(深度学习) 
 |[CNN](https://github.com/fusimeng/CNNTutorials)|链接|RNN|链接|[GAN](https://github.com/fusimeng/GANTutorials)|链接|[CNN](https://github.com/fusimeng/CNNTutorials)|链接|RNN|链接|[GAN](https://github.com/fusimeng/GANTutorials)|链接|
 |:-:|:-:|:----:|:--:|:----:|:----:|:----:|:----:|:-----:|:----:|:----:|:-------:|
