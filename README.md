@@ -18,9 +18,9 @@
 |AdaBoost|[🔗](https://github.com/fusimeng/AdaBoost)|GradientBoosting|[🔗](https://github.com/fusimeng/GradientBoosting)|Xgboost|[🔗](https://github.com/fusimeng/Xgboost)|PCA||
 
 **参考网站**：  
-|Site|Link|Site|Link|Site|Link|Site|Link|   
+|Site|Link|Site|Link|Site|Link|Site|Link|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|Sklearn|[🔗](https://scikit-learn.org/stable/#)|Notes|[🔗](https://feisky.xyz/machine-learning/)|Notes GitHub|[🔗](https://github.com/trekhleb/homemade-machine-learning)|Pandas|[🔗](http://pandas.pydata.org/)/[🔗](https://www.yiibai.com/pandas)|
+|Sklearn|[🔗](https://scikit-learn.org/stable/#)|Notes|[🔗](https://feisky.xyz/machine-learning/)|Notes GitHub|[🔗](https://github.com/trekhleb/homemade-machine-learning)|Pandas|[🔗](http://pandas.pydata.org/)/[🔗](https://www.yiibai.com/pandas)|   
 |Numpy|[🔗](https://www.numpy.org/)/[🔗](https://www.runoob.com/numpy/numpy-tutorial.html)|Seaborn|[🔗](https://seaborn.pydata.org/)|Matplotlib|[🔗](https://matplotlib.org/)|||
 ### 2.DeepLearning(深度学习) 
 |[CNN](https://github.com/fusimeng/CNNTutorials)|链接|RNN|链接|[GAN](https://github.com/fusimeng/GANTutorials)|链接|[CNN](https://github.com/fusimeng/CNNTutorials)|链接|RNN|链接|[GAN](https://github.com/fusimeng/GANTutorials)|链接|
