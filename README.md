@@ -11,9 +11,12 @@
 ## 二、A(algorithm)——算法   
 ### 1.MachineLearning(机器学习)   
 机器学习算法分为几大类：Classification(分类)、Regression(回归)、Cluster(聚类)、EnsembleLearning(集成学习)等。    
-|算法|链接|算法|链接|算法|链接|算法|链接|
-|:----:|:----:|:----:|:-----:|:----:|:-----:| :----:|:-----:|
+
+
+|算法|链接|算法|链接|算法|链接|算法|链接|  
+|:----:|:----:|:----:|:-----:|:----:|:-----:|:----:|:-----:|    
 |AdaBoost|[🔗](https://github.com/fusimeng/AdaBoost)|GradientBoosting|[🔗](https://github.com/fusimeng/GradientBoosting)|Xgboost|[🔗](https://github.com/fusimeng/Xgboost)|PCA||
+
 **参考网站**：  
 |Site|Link|Site|Link|Site|Link|Site|Link|   
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
