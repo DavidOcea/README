@@ -91,5 +91,13 @@
 |Rapids|[🔗](https://rapids.ai/)|Rapids GitHub|[🔗](https://github.com/rapidsai)|cudf|[🔗](https://rapidsai.github.io/projects/cudf/en/latest/)|cuml|[🔗](https://rapidsai.github.io/projects/cuml/en/latest/)|
 |Dask|[🔗](https://dask.org/)|||||
 
-
+## 十一、国际知名会议
+### 1.计算机视觉相关的国际会议
+* [IJCAI](https://www.ijcai.org/)(International Joint Conference on Artificial Intelligence，人工智能国际联合大会)，AI最好的综合性会议, 
+* [CVPR](http://cvpr2019.thecvf.com/)(IEEE Conference on Computer Vision and Pattern Recognition，IEEE国际计算机视觉与模式识别会议)
+* [ICCV](http://iccv2019.thecvf.com/)(IEEE International Conference on Computer Vision，即国际计算机视觉大会)
+* [ECCV](https://eccv2018.org/)(European Conference on Computer Vision(欧洲计算机视觉国际会议)
+* [AAAI](https://www.aaai.org/)(American Association for Artificial Intelligence，美国人工智能协会)
+* [ICML](https://icml.cc/)(International Conference on Machine Learning，即国际机器学习大会)
+* [ICLR](https://iclr.cc/)(International Conference on Learning Representations)由Yann LeCun和Yoshua Bengio等人在2013年发起，是深度学习领域最重要的会议之一
 
