@@ -10,16 +10,32 @@
 
 ## 二、A(algorithm)——算法   
 ### 1.MachineLearning(机器学习)   
-|Classification(分类)|Regression(回归)|Cluster(聚类)|EnsembleLearning(集成学习)|  
-|:----:|:----:|:----:|:-----:|   
-||||[AdaBoost](https://github.com/fusimeng/AdaBoost)|
-||||[GradientBoosting](https://github.com/fusimeng/GradientBoosting)|
-||||[Xgboost](https://github.com/fusimeng/Xgboost)|
+机器学习算法分为几大类：Classification(分类)、Regression(回归)、Cluster(聚类)、EnsembleLearning(集成学习)等。    
+
+
+|算法|链接|算法|链接|算法|链接|算法|链接|  
+|:----:|:----:|:----:|:-----:|:----:|:-----:|:----:|:-----:|    
+|AdaBoost|[🔗](https://github.com/fusimeng/AdaBoost)|GradientBoosting|[🔗](https://github.com/fusimeng/GradientBoosting)|Xgboost|[🔗](https://github.com/fusimeng/Xgboost)|PCA||
+
+**参考网站**：  
+
+|Site|Link|Site|Link|Site|Link|Site|Link|   
+|:----:|:----:|:----:|:-----:|:----:|:-----:|:----:|:-----:|   
+|Sklearn|[🔗](https://scikit-learn.org/stable/#)|Notes|[🔗](https://feisky.xyz/machine-learning/)|Notes GitHub|[🔗](https://github.com/trekhleb/homemade-machine-learning)|Pandas|[🔗](http://pandas.pydata.org/)/[🔗](https://www.yiibai.com/pandas)|   
+|Numpy|[🔗](https://www.numpy.org/)/[🔗](https://www.runoob.com/numpy/numpy-tutorial.html)|Seaborn|[🔗](https://seaborn.pydata.org/)|Matplotlib|[🔗](https://matplotlib.org/)|||
 ### 2.DeepLearning(深度学习) 
 |[CNN](https://github.com/fusimeng/CNNTutorials)|链接|RNN|链接|[GAN](https://github.com/fusimeng/GANTutorials)|链接|[CNN](https://github.com/fusimeng/CNNTutorials)|链接|RNN|链接|[GAN](https://github.com/fusimeng/GANTutorials)|链接|
 |:-:|:-:|:----:|:--:|:----:|:----:|:----:|:----:|:-----:|:----:|:----:|:-------:|
 |MaskRCNN|[🔗](https://github.com/fusimeng/MaskRCNN)|RNN|🔗|GAN|🔗|Yolo-v1|[🔗](https://github.com/fusimeng/Yolo-v1)|RNN|🔗|GAN|🔗|
 |AlexNet|[🔗](https://github.com/fusimeng/AlexNet)|RNN|🔗|GAN|🔗|Lenet|[🔗](https://github.com/fusimeng/LeNet)|RNN|🔗|GAN|🔗|
+
+* NVIDIA Example:[🔗](https://github.com/NVIDIA/DeepLearningExamples)/[🔗](https://developer.nvidia.com/deep-learning-examples) 
+### 3.BenchMark(基准测试程序)
+
+|BM|Link|BM|Link|BM|Link|BM|Link|   
+|:----:|:----:|:----:|:-----:|:----:|:-----:|:----:|:-----:|
+|Mine|[🔗](https://github.com/fusimeng/framework_benchmark)|DeepBench|[🔗](https://github.com/baidu-research/DeepBench)|||||
+
 ## 三、B(big data)——大数据  
 ### 1.DataSet(数据集)  
 |数据集|链接| 数据集|链接|数据集|链接| 数据集|链接|
@@ -55,8 +71,7 @@
 |腾讯|[Angel](https://github.com/Angel-ML/angel)|Docker+Yarn|阿里|[X-DeepLearning](https://github.com/alibaba/x-deeplearning)|Docker+Yarn|
 |360|[Xlearning](https://github.com/Qihoo360/XLearning)|Yarn|京东|登月|Docker+Kubernetes|
 |才云科技|[clever](https://caicloud.io/products/clever)|Docker+Kubernetes|Google|[Kubeflow](https://github.com/kubeflow)|Docker + Kubernetes|
-|IBM|[FFDL](https://github.com/IBM/FfDL)|?|
-   
+|IBM|[FFDL](https://github.com/IBM/FfDL)|?|启智|[OpenI](https://openi.org.cn/)|Yarn+Docker|
     
 ## 五、L(language)——编程语言   
 |语言|链接|语言|链接|
