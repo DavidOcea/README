@@ -104,7 +104,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Clara|[🔗](https://developer.nvidia.com/clara)|Isaac|[🔗](https://developer.nvidia.com/isaac-sdk)|Digits|[🔗](https://github.com/NVIDIA/DIGITS)|Digits API|[🔗](https://docs.nvidia.com/deeplearning/digits/index.html)|
 |Rapids|[🔗](https://rapids.ai/)|Rapids GitHub|[🔗](https://github.com/rapidsai)|cudf|[🔗](https://rapidsai.github.io/projects/cudf/en/latest/)|cuml|[🔗](https://rapidsai.github.io/projects/cuml/en/latest/)|
-|Dask|[🔗](https://dask.org/)|DCMG|[🔗](https://developer.nvidia.com/datacenter-management-gpu)/[🔗](https://developer.nvidia.com/dcgm)|||
+|Dask|[🔗](https://dask.org/)|DCMG|[🔗](https://developer.nvidia.com/datacenter-management-gpu)/[🔗](https://developer.nvidia.com/dcgm)/[🔗](https://github.com/NVIDIA/gpu-monitoring-tools)|||
 
 ## 十一、国际知名会议
 ### 1.计算机视觉相关的国际会议
