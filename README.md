@@ -24,10 +24,14 @@
 |Sklearn|[🔗](https://scikit-learn.org/stable/#)|Notes|[🔗](https://feisky.xyz/machine-learning/)|Notes GitHub|[🔗](https://github.com/trekhleb/homemade-machine-learning)|Pandas|[🔗](http://pandas.pydata.org/)/[🔗](https://www.yiibai.com/pandas)|   
 |Numpy|[🔗](https://www.numpy.org/)/[🔗](https://www.runoob.com/numpy/numpy-tutorial.html)|Seaborn|[🔗](https://seaborn.pydata.org/)|Matplotlib|[🔗](https://matplotlib.org/)|||
 ### 2.DeepLearning(深度学习) 
-|[CNN](https://github.com/fusimeng/CNNTutorials)|链接|RNN|链接|[GAN](https://github.com/fusimeng/GANTutorials)|链接|[CNN](https://github.com/fusimeng/CNNTutorials)|链接|RNN|链接|[GAN](https://github.com/fusimeng/GANTutorials)|链接|
-|:-:|:-:|:----:|:--:|:----:|:----:|:----:|:----:|:-----:|:----:|:----:|:-------:|
-|MaskRCNN|[🔗](https://github.com/fusimeng/MaskRCNN)|RNN|🔗|GAN|🔗|Yolo-v1|[🔗](https://github.com/fusimeng/Yolo-v1)|RNN|🔗|GAN|🔗|
-|AlexNet|[🔗](https://github.com/fusimeng/AlexNet)|RNN|🔗|GAN|🔗|Lenet|[🔗](https://github.com/fusimeng/LeNet)|RNN|🔗|GAN|🔗|
+
+|[CNN](https://github.com/fusimeng/CNNTutorials)|链接|RNN|链接|[GAN](https://github.com/fusimeng/GANTutorials)|链接|
+|:-:|:-:|:----:|:--:|:----:|:----:|
+|Lenet|[🔗](https://github.com/fusimeng/LeNet)|N/A|🔗|N/A|🔗|
+|AlexNet|[🔗](https://github.com/fusimeng/AlexNet)|N/A|🔗|N/A|🔗|
+|Yolo|[🔗](https://github.com/fusimeng/Yolo)|N/A|🔗|N/A|🔗|
+|MaskRCNN|[🔗](https://github.com/fusimeng/MaskRCNN)|N/A|🔗|N/A|🔗|
+
 
 * NVIDIA Example:[🔗](https://github.com/NVIDIA/DeepLearningExamples)/[🔗](https://developer.nvidia.com/deep-learning-examples) 
 ### 3.BenchMark(基准测试程序)
