@@ -48,23 +48,24 @@
 |Hadoop|[🔗](https://github.com/fusimeng/Hadoop)|Storm|🔗|Samza|🔗|
 |Spark|🔗|Flink|🔗|Ceph|🔗|      
 ## 四、C(computing)——计算力/平台   
-### 1.操作系统——[OS/Linux](https://github.com/fusimeng/Linux)
+### 1.HardWare——[硬件](https://github.com/fusimeng/Hardware)   
+### 2.操作系统——[OS/Linux](https://github.com/fusimeng/Linux)
 
-### 2.ParallelComputing-[并行计算](https://github.com/fusimeng/ParallelComputing) 
-### 3.Framework——[框架](notes/frameworks.md)
+### 3.ParallelComputing-[并行计算](https://github.com/fusimeng/ParallelComputing) 
+### 4.Framework——[框架](notes/frameworks.md)
 * [PyTorch](https://github.com/fusimeng/PyTorch)|[MxNet](https://github.com/fusimeng/mxnet)|[TensorFlow](https://github.com/fusimeng/tensorflow) 
 * [Horovod](https://github.com/fusimeng/Horovod)
 * [ONNX](https://github.com/fusimeng/onnx)     
 * [TensorRT](https://github.com/fusimeng/TensorRT) 
 * [MixedPrecise](https://github.com/fusimeng/MixedPrecise) 
 * [Tensorboard](https://github.com/fusimeng/Tensorboard)
-### 4.Scheduling——集群调度技术
+### 5.Scheduling——集群调度技术
 |名称|链接|名称|链接|
 |:-:|:-:|:-:|:-:|
 |pdsh|[GitHub](https://github.com/chaos/pdsh)|slurm|[官网](https://slurm.schedmd.com/quickstart.html)/[IBM](https://www.ibm.com/developerworks/cn/linux/l-slurm-utility/index.html)|
 |clustershell|[GitHub](https://github.com/cea-hpc/clustershell)|||
 |Docker|[🔗](https://github.com/fusimeng/Docker)|Kubernates|[🔗](https://github.com/fusimeng/k8s)|    
-### 5.Cluster——集群平台  
+### 6.Cluster——集群平台  
 |公司 | 平台名称| 管理&调度| 公司 | 平台名称| 管理&调度| 
 |:----:|:-------:|:------:| :----:|:-------:|:-------:|    
 |微软|[OpenPAI](https://github.com/microsoft/pai)|Docker+Kubernets+Hadoop|百度|[PaddlePaddle](http://paddlepaddle.org/zh)|  Docker+Kubernets|  
