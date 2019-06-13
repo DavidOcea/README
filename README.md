@@ -5,7 +5,7 @@
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |📚|[🔗](https://github.com/fusimeng/book)|blog|[🔗](https://github.com/fusimeng/Best-websites-a-programmer-should-visit-zh)|ApacheCN|[🔗](https://github.com/apachecn)/[🔗](http://www.apachecn.org/)/[🔗](https://github.com/fusimeng/AiLearning)|DL-A|[🔗](https://github.com/fusimeng/Algorithms-Tutorial)/[🔗](https://github.com/fusimeng/tutorial)|
 |spark ml|[🔗](https://github.com/fusimeng/spark-ml-source-analysis)|GPU world|[🔗](http://www.gpuworld.cn/)|机器之心|[🔗](https://www.jiqizhixin.com/)|雷锋网|[🔗](https://www.leiphone.com/)|
-|AI 研习社|[🔗](https://ai.yanxishe.com/)|CSDN|[🔗](https://blog.csdn.net/)|
+|AI 研习社|[🔗](https://ai.yanxishe.com/)|CSDN|[🔗](https://blog.csdn.net/)|开源项目|[🔗](https://github.com/GitHubDaily/GitHubDaily)|
 
 
 ## 二、A(algorithm)——算法   
