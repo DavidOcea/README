@@ -31,7 +31,7 @@
 |AlexNet|[🔗](https://github.com/fusimeng/AlexNet)|N/A|🔗|N/A|🔗|
 |Yolo|[🔗](https://github.com/fusimeng/Yolo)|N/A|🔗|N/A|🔗|
 |MaskRCNN|[🔗](https://github.com/fusimeng/MaskRCNN)|N/A|🔗|N/A|🔗|
-
+|SSD|[🔗](https://github.com/fusimeng/ssd)|N/A|🔗|N/A|🔗|
 
 * NVIDIA Example:[🔗](https://github.com/NVIDIA/DeepLearningExamples)/[🔗](https://developer.nvidia.com/deep-learning-examples) 
 ### 3.BenchMark(基准测试程序)
