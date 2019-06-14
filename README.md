@@ -40,6 +40,11 @@
 |BM|Link|BM|Link|BM|Link|BM|Link|   
 |:----:|:----:|:----:|:-----:|:----:|:-----:|:----:|:-----:|
 |Mine|[🔗](https://github.com/fusimeng/framework_benchmark)|DeepBench|[🔗](https://github.com/baidu-research/DeepBench)|||||
+### 4.项目
+
+|项目|链接|项目|链接|项目|链接|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|关键点检测|[🔗](https://github.com/fusimeng/part-affinity)|||||
 
 ## 三、B(big data)——大数据  
 ### 1.DataSet([数据集](https://github.com/fusimeng/dataset))  
