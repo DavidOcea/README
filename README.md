@@ -24,7 +24,7 @@
 |:----:|:----:|:----:|:-----:|:----:|:-----:|:----:|:-----:|   
 |Sklearn|[🔗](https://scikit-learn.org/stable/#)|Notes|[🔗](https://feisky.xyz/machine-learning/)|Notes GitHub|[🔗](https://github.com/trekhleb/homemade-machine-learning)|Pandas|[🔗](http://pandas.pydata.org/)/[🔗](https://www.yiibai.com/pandas)|   
 |Numpy|[🔗](https://www.numpy.org/)/[🔗](https://www.runoob.com/numpy/numpy-tutorial.html)|Seaborn|[🔗](https://seaborn.pydata.org/)|Matplotlib|[🔗](https://matplotlib.org/)|||
-### 2.DeepLearning(深度学习) 
+### 2.DeepLearning([深度学习](https://github.com/fusimeng/DeepLearning)) 
 
 |[CNN](https://github.com/fusimeng/CNNTutorials)|链接|RNN|链接|[GAN](https://github.com/fusimeng/GANTutorials)|链接|
 |:-:|:-:|:----:|:--:|:----:|:----:|
